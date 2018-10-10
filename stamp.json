@@ -1,0 +1,9010 @@
+[
+    {
+        "model": "posts.stamps",
+        "pk": 1,
+        "fields": {
+            "name": "NUMBER SIGN\n",
+            "unicode": "U+0023"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 2,
+        "fields": {
+            "name": "ASTERISK\n",
+            "unicode": "U+002A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 3,
+        "fields": {
+            "name": "DIGIT ZERO\n",
+            "unicode": "U+0030"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 4,
+        "fields": {
+            "name": "DIGIT ONE\n",
+            "unicode": "U+0031"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 5,
+        "fields": {
+            "name": "DIGIT TWO\n",
+            "unicode": "U+0032"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 6,
+        "fields": {
+            "name": "DIGIT THREE\n",
+            "unicode": "U+0033"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 7,
+        "fields": {
+            "name": "DIGIT FOUR\n",
+            "unicode": "U+0034"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 8,
+        "fields": {
+            "name": "DIGIT FIVE\n",
+            "unicode": "U+0035"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 9,
+        "fields": {
+            "name": "DIGIT SIX\n",
+            "unicode": "U+0036"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 10,
+        "fields": {
+            "name": "DIGIT SEVEN\n",
+            "unicode": "U+0037"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 11,
+        "fields": {
+            "name": "DIGIT EIGHT\n",
+            "unicode": "U+0038"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 12,
+        "fields": {
+            "name": "DIGIT NINE\n",
+            "unicode": "U+0039"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 13,
+        "fields": {
+            "name": "COPYRIGHT SIGN\n",
+            "unicode": "U+00A9"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 14,
+        "fields": {
+            "name": "REGISTERED SIGN\n",
+            "unicode": "U+00AE"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 15,
+        "fields": {
+            "name": "DOUBLE EXCLAMATION MARK\n",
+            "unicode": "U+203C"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 16,
+        "fields": {
+            "name": "EXCLAMATION QUESTION MARK\n",
+            "unicode": "U+2049"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 17,
+        "fields": {
+            "name": "TRADE MARK SIGN\n",
+            "unicode": "U+2122"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 18,
+        "fields": {
+            "name": "INFORMATION SOURCE\n",
+            "unicode": "U+2139"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 19,
+        "fields": {
+            "name": "LEFT RIGHT ARROW\n",
+            "unicode": "U+2194"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 20,
+        "fields": {
+            "name": "UP DOWN ARROW\n",
+            "unicode": "U+2195"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 21,
+        "fields": {
+            "name": "NORTH WEST ARROW\n",
+            "unicode": "U+2196"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 22,
+        "fields": {
+            "name": "NORTH EAST ARROW\n",
+            "unicode": "U+2197"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 23,
+        "fields": {
+            "name": "SOUTH EAST ARROW\n",
+            "unicode": "U+2198"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 24,
+        "fields": {
+            "name": "SOUTH WEST ARROW\n",
+            "unicode": "U+2199"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 25,
+        "fields": {
+            "name": "LEFTWARDS ARROW WITH HOOK\n",
+            "unicode": "U+21A9"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 26,
+        "fields": {
+            "name": "RIGHTWARDS ARROW WITH HOOK\n",
+            "unicode": "U+21AA"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 27,
+        "fields": {
+            "name": "WATCH\n",
+            "unicode": "U+231A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 28,
+        "fields": {
+            "name": "HOURGLASS\n",
+            "unicode": "U+231B"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 29,
+        "fields": {
+            "name": "KEYBOARD\n",
+            "unicode": "U+2328"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 30,
+        "fields": {
+            "name": "EJECT SYMBOL\n",
+            "unicode": "U+23CF"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 31,
+        "fields": {
+            "name": "BLACK RIGHT-POINTING DOUBLE TRIANGLE\n",
+            "unicode": "U+23E9"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 32,
+        "fields": {
+            "name": "BLACK LEFT-POINTING DOUBLE TRIANGLE\n",
+            "unicode": "U+23EA"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 33,
+        "fields": {
+            "name": "BLACK UP-POINTING DOUBLE TRIANGLE\n",
+            "unicode": "U+23EB"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 34,
+        "fields": {
+            "name": "BLACK DOWN-POINTING DOUBLE TRIANGLE\n",
+            "unicode": "U+23EC"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 35,
+        "fields": {
+            "name": "BLACK RIGHT-POINTING DOUBLE TRIANGLE WITH VERTICAL BAR\n",
+            "unicode": "U+23ED"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 36,
+        "fields": {
+            "name": "BLACK LEFT-POINTING DOUBLE TRIANGLE WITH VERTICAL BAR\n",
+            "unicode": "U+23EE"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 37,
+        "fields": {
+            "name": "BLACK RIGHT-POINTING TRIANGLE WITH DOUBLE VERTICAL BAR\n",
+            "unicode": "U+23EF"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 38,
+        "fields": {
+            "name": "ALARM CLOCK\n",
+            "unicode": "U+23F0"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 39,
+        "fields": {
+            "name": "STOPWATCH\n",
+            "unicode": "U+23F1"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 40,
+        "fields": {
+            "name": "TIMER CLOCK\n",
+            "unicode": "U+23F2"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 41,
+        "fields": {
+            "name": "HOURGLASS WITH FLOWING SAND\n",
+            "unicode": "U+23F3"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 42,
+        "fields": {
+            "name": "DOUBLE VERTICAL BAR\n",
+            "unicode": "U+23F8"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 43,
+        "fields": {
+            "name": "BLACK SQUARE FOR STOP\n",
+            "unicode": "U+23F9"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 44,
+        "fields": {
+            "name": "BLACK CIRCLE FOR RECORD\n",
+            "unicode": "U+23FA"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 45,
+        "fields": {
+            "name": "CIRCLED LATIN CAPITAL LETTER M\n",
+            "unicode": "U+24C2"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 46,
+        "fields": {
+            "name": "BLACK SMALL SQUARE\n",
+            "unicode": "U+25AA"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 47,
+        "fields": {
+            "name": "WHITE SMALL SQUARE\n",
+            "unicode": "U+25AB"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 48,
+        "fields": {
+            "name": "BLACK RIGHT-POINTING TRIANGLE\n",
+            "unicode": "U+25B6"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 49,
+        "fields": {
+            "name": "BLACK LEFT-POINTING TRIANGLE\n",
+            "unicode": "U+25C0"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 50,
+        "fields": {
+            "name": "WHITE MEDIUM SQUARE\n",
+            "unicode": "U+25FB"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 51,
+        "fields": {
+            "name": "BLACK MEDIUM SQUARE\n",
+            "unicode": "U+25FC"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 52,
+        "fields": {
+            "name": "WHITE MEDIUM SMALL SQUARE\n",
+            "unicode": "U+25FD"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 53,
+        "fields": {
+            "name": "BLACK MEDIUM SMALL SQUARE\n",
+            "unicode": "U+25FE"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 54,
+        "fields": {
+            "name": "BLACK SUN WITH RAYS\n",
+            "unicode": "U+2600"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 55,
+        "fields": {
+            "name": "CLOUD\n",
+            "unicode": "U+2601"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 56,
+        "fields": {
+            "name": "UMBRELLA\n",
+            "unicode": "U+2602"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 57,
+        "fields": {
+            "name": "SNOWMAN\n",
+            "unicode": "U+2603"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 58,
+        "fields": {
+            "name": "COMET\n",
+            "unicode": "U+2604"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 59,
+        "fields": {
+            "name": "BLACK TELEPHONE\n",
+            "unicode": "U+260E"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 60,
+        "fields": {
+            "name": "BALLOT BOX WITH CHECK\n",
+            "unicode": "U+2611"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 61,
+        "fields": {
+            "name": "UMBRELLA WITH RAIN DROPS\n",
+            "unicode": "U+2614"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 62,
+        "fields": {
+            "name": "HOT BEVERAGE\n",
+            "unicode": "U+2615"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 63,
+        "fields": {
+            "name": "SHAMROCK\n",
+            "unicode": "U+2618"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 64,
+        "fields": {
+            "name": "WHITE UP POINTING INDEX\n",
+            "unicode": "U+261D"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 65,
+        "fields": {
+            "name": "SKULL AND CROSSBONES\n",
+            "unicode": "U+2620"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 66,
+        "fields": {
+            "name": "RADIOACTIVE SIGN\n",
+            "unicode": "U+2622"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 67,
+        "fields": {
+            "name": "BIOHAZARD SIGN\n",
+            "unicode": "U+2623"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 68,
+        "fields": {
+            "name": "ORTHODOX CROSS\n",
+            "unicode": "U+2626"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 69,
+        "fields": {
+            "name": "STAR AND CRESCENT\n",
+            "unicode": "U+262A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 70,
+        "fields": {
+            "name": "PEACE SYMBOL\n",
+            "unicode": "U+262E"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 71,
+        "fields": {
+            "name": "YIN YANG\n",
+            "unicode": "U+262F"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 72,
+        "fields": {
+            "name": "WHEEL OF DHARMA\n",
+            "unicode": "U+2638"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 73,
+        "fields": {
+            "name": "WHITE FROWNING FACE\n",
+            "unicode": "U+2639"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 74,
+        "fields": {
+            "name": "WHITE SMILING FACE\n",
+            "unicode": "U+263A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 75,
+        "fields": {
+            "name": "FEMALE SIGN\n",
+            "unicode": "U+2640"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 76,
+        "fields": {
+            "name": "MALE SIGN\n",
+            "unicode": "U+2642"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 77,
+        "fields": {
+            "name": "ARIES\n",
+            "unicode": "U+2648"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 78,
+        "fields": {
+            "name": "TAURUS\n",
+            "unicode": "U+2649"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 79,
+        "fields": {
+            "name": "GEMINI\n",
+            "unicode": "U+264A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 80,
+        "fields": {
+            "name": "CANCER\n",
+            "unicode": "U+264B"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 81,
+        "fields": {
+            "name": "LEO\n",
+            "unicode": "U+264C"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 82,
+        "fields": {
+            "name": "VIRGO\n",
+            "unicode": "U+264D"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 83,
+        "fields": {
+            "name": "LIBRA\n",
+            "unicode": "U+264E"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 84,
+        "fields": {
+            "name": "SCORPIUS\n",
+            "unicode": "U+264F"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 85,
+        "fields": {
+            "name": "SAGITTARIUS\n",
+            "unicode": "U+2650"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 86,
+        "fields": {
+            "name": "CAPRICORN\n",
+            "unicode": "U+2651"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 87,
+        "fields": {
+            "name": "AQUARIUS\n",
+            "unicode": "U+2652"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 88,
+        "fields": {
+            "name": "PISCES\n",
+            "unicode": "U+2653"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 89,
+        "fields": {
+            "name": "BLACK SPADE SUIT\n",
+            "unicode": "U+2660"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 90,
+        "fields": {
+            "name": "BLACK CLUB SUIT\n",
+            "unicode": "U+2663"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 91,
+        "fields": {
+            "name": "BLACK HEART SUIT\n",
+            "unicode": "U+2665"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 92,
+        "fields": {
+            "name": "BLACK DIAMOND SUIT\n",
+            "unicode": "U+2666"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 93,
+        "fields": {
+            "name": "HOT SPRINGS\n",
+            "unicode": "U+2668"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 94,
+        "fields": {
+            "name": "BLACK UNIVERSAL RECYCLING SYMBOL\n",
+            "unicode": "U+267B"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 95,
+        "fields": {
+            "name": "WHEELCHAIR SYMBOL\n",
+            "unicode": "U+267F"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 96,
+        "fields": {
+            "name": "HAMMER AND PICK\n",
+            "unicode": "U+2692"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 97,
+        "fields": {
+            "name": "ANCHOR\n",
+            "unicode": "U+2693"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 98,
+        "fields": {
+            "name": "CROSSED SWORDS\n",
+            "unicode": "U+2694"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 99,
+        "fields": {
+            "name": "STAFF OF AESCULAPIUS\n",
+            "unicode": "U+2695"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 100,
+        "fields": {
+            "name": "SCALES\n",
+            "unicode": "U+2696"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 101,
+        "fields": {
+            "name": "ALEMBIC\n",
+            "unicode": "U+2697"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 102,
+        "fields": {
+            "name": "GEAR\n",
+            "unicode": "U+2699"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 103,
+        "fields": {
+            "name": "ATOM SYMBOL\n",
+            "unicode": "U+269B"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 104,
+        "fields": {
+            "name": "FLEUR-DE-LIS\n",
+            "unicode": "U+269C"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 105,
+        "fields": {
+            "name": "WARNING SIGN\n",
+            "unicode": "U+26A0"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 106,
+        "fields": {
+            "name": "HIGH VOLTAGE SIGN\n",
+            "unicode": "U+26A1"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 107,
+        "fields": {
+            "name": "MEDIUM WHITE CIRCLE\n",
+            "unicode": "U+26AA"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 108,
+        "fields": {
+            "name": "MEDIUM BLACK CIRCLE\n",
+            "unicode": "U+26AB"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 109,
+        "fields": {
+            "name": "COFFIN\n",
+            "unicode": "U+26B0"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 110,
+        "fields": {
+            "name": "FUNERAL URN\n",
+            "unicode": "U+26B1"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 111,
+        "fields": {
+            "name": "SOCCER BALL\n",
+            "unicode": "U+26BD"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 112,
+        "fields": {
+            "name": "BASEBALL\n",
+            "unicode": "U+26BE"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 113,
+        "fields": {
+            "name": "SNOWMAN WITHOUT SNOW\n",
+            "unicode": "U+26C4"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 114,
+        "fields": {
+            "name": "SUN BEHIND CLOUD\n",
+            "unicode": "U+26C5"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 115,
+        "fields": {
+            "name": "THUNDER CLOUD AND RAIN\n",
+            "unicode": "U+26C8"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 116,
+        "fields": {
+            "name": "OPHIUCHUS\n",
+            "unicode": "U+26CE"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 117,
+        "fields": {
+            "name": "PICK\n",
+            "unicode": "U+26CF"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 118,
+        "fields": {
+            "name": "HELMET WITH WHITE CROSS\n",
+            "unicode": "U+26D1"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 119,
+        "fields": {
+            "name": "CHAINS\n",
+            "unicode": "U+26D3"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 120,
+        "fields": {
+            "name": "NO ENTRY\n",
+            "unicode": "U+26D4"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 121,
+        "fields": {
+            "name": "SHINTO SHRINE\n",
+            "unicode": "U+26E9"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 122,
+        "fields": {
+            "name": "CHURCH\n",
+            "unicode": "U+26EA"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 123,
+        "fields": {
+            "name": "MOUNTAIN\n",
+            "unicode": "U+26F0"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 124,
+        "fields": {
+            "name": "UMBRELLA ON GROUND\n",
+            "unicode": "U+26F1"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 125,
+        "fields": {
+            "name": "FOUNTAIN\n",
+            "unicode": "U+26F2"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 126,
+        "fields": {
+            "name": "FLAG IN HOLE\n",
+            "unicode": "U+26F3"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 127,
+        "fields": {
+            "name": "FERRY\n",
+            "unicode": "U+26F4"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 128,
+        "fields": {
+            "name": "SAILBOAT\n",
+            "unicode": "U+26F5"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 129,
+        "fields": {
+            "name": "SKIER\n",
+            "unicode": "U+26F7"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 130,
+        "fields": {
+            "name": "ICE SKATE\n",
+            "unicode": "U+26F8"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 131,
+        "fields": {
+            "name": "PERSON WITH BALL\n",
+            "unicode": "U+26F9"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 132,
+        "fields": {
+            "name": "TENT\n",
+            "unicode": "U+26FA"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 133,
+        "fields": {
+            "name": "FUEL PUMP\n",
+            "unicode": "U+26FD"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 134,
+        "fields": {
+            "name": "BLACK SCISSORS\n",
+            "unicode": "U+2702"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 135,
+        "fields": {
+            "name": "WHITE HEAVY CHECK MARK\n",
+            "unicode": "U+2705"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 136,
+        "fields": {
+            "name": "AIRPLANE\n",
+            "unicode": "U+2708"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 137,
+        "fields": {
+            "name": "ENVELOPE\n",
+            "unicode": "U+2709"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 138,
+        "fields": {
+            "name": "RAISED FIST\n",
+            "unicode": "U+270A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 139,
+        "fields": {
+            "name": "RAISED HAND\n",
+            "unicode": "U+270B"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 140,
+        "fields": {
+            "name": "VICTORY HAND\n",
+            "unicode": "U+270C"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 141,
+        "fields": {
+            "name": "WRITING HAND\n",
+            "unicode": "U+270D"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 142,
+        "fields": {
+            "name": "PENCIL\n",
+            "unicode": "U+270F"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 143,
+        "fields": {
+            "name": "BLACK NIB\n",
+            "unicode": "U+2712"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 144,
+        "fields": {
+            "name": "HEAVY CHECK MARK\n",
+            "unicode": "U+2714"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 145,
+        "fields": {
+            "name": "HEAVY MULTIPLICATION X\n",
+            "unicode": "U+2716"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 146,
+        "fields": {
+            "name": "LATIN CROSS\n",
+            "unicode": "U+271D"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 147,
+        "fields": {
+            "name": "STAR OF DAVID\n",
+            "unicode": "U+2721"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 148,
+        "fields": {
+            "name": "SPARKLES\n",
+            "unicode": "U+2728"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 149,
+        "fields": {
+            "name": "EIGHT SPOKED ASTERISK\n",
+            "unicode": "U+2733"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 150,
+        "fields": {
+            "name": "EIGHT POINTED BLACK STAR\n",
+            "unicode": "U+2734"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 151,
+        "fields": {
+            "name": "SNOWFLAKE\n",
+            "unicode": "U+2744"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 152,
+        "fields": {
+            "name": "SPARKLE\n",
+            "unicode": "U+2747"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 153,
+        "fields": {
+            "name": "CROSS MARK\n",
+            "unicode": "U+274C"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 154,
+        "fields": {
+            "name": "NEGATIVE SQUARED CROSS MARK\n",
+            "unicode": "U+274E"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 155,
+        "fields": {
+            "name": "BLACK QUESTION MARK ORNAMENT\n",
+            "unicode": "U+2753"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 156,
+        "fields": {
+            "name": "WHITE QUESTION MARK ORNAMENT\n",
+            "unicode": "U+2754"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 157,
+        "fields": {
+            "name": "WHITE EXCLAMATION MARK ORNAMENT\n",
+            "unicode": "U+2755"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 158,
+        "fields": {
+            "name": "HEAVY EXCLAMATION MARK SYMBOL\n",
+            "unicode": "U+2757"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 159,
+        "fields": {
+            "name": "HEAVY HEART EXCLAMATION MARK ORNAMENT\n",
+            "unicode": "U+2763"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 160,
+        "fields": {
+            "name": "HEAVY BLACK HEART\n",
+            "unicode": "U+2764"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 161,
+        "fields": {
+            "name": "HEAVY PLUS SIGN\n",
+            "unicode": "U+2795"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 162,
+        "fields": {
+            "name": "HEAVY MINUS SIGN\n",
+            "unicode": "U+2796"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 163,
+        "fields": {
+            "name": "HEAVY DIVISION SIGN\n",
+            "unicode": "U+2797"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 164,
+        "fields": {
+            "name": "BLACK RIGHTWARDS ARROW\n",
+            "unicode": "U+27A1"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 165,
+        "fields": {
+            "name": "CURLY LOOP\n",
+            "unicode": "U+27B0"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 166,
+        "fields": {
+            "name": "DOUBLE CURLY LOOP\n",
+            "unicode": "U+27BF"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 167,
+        "fields": {
+            "name": "ARROW POINTING RIGHTWARDS THEN CURVING UPWARDS\n",
+            "unicode": "U+2934"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 168,
+        "fields": {
+            "name": "ARROW POINTING RIGHTWARDS THEN CURVING DOWNWARDS\n",
+            "unicode": "U+2935"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 169,
+        "fields": {
+            "name": "LEFTWARDS BLACK ARROW\n",
+            "unicode": "U+2B05"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 170,
+        "fields": {
+            "name": "UPWARDS BLACK ARROW\n",
+            "unicode": "U+2B06"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 171,
+        "fields": {
+            "name": "DOWNWARDS BLACK ARROW\n",
+            "unicode": "U+2B07"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 172,
+        "fields": {
+            "name": "BLACK LARGE SQUARE\n",
+            "unicode": "U+2B1B"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 173,
+        "fields": {
+            "name": "WHITE LARGE SQUARE\n",
+            "unicode": "U+2B1C"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 174,
+        "fields": {
+            "name": "WHITE MEDIUM STAR\n",
+            "unicode": "U+2B50"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 175,
+        "fields": {
+            "name": "HEAVY LARGE CIRCLE\n",
+            "unicode": "U+2B55"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 176,
+        "fields": {
+            "name": "WAVY DASH\n",
+            "unicode": "U+3030"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 177,
+        "fields": {
+            "name": "PART ALTERNATION MARK\n",
+            "unicode": "U+303D"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 178,
+        "fields": {
+            "name": "CIRCLED IDEOGRAPH CONGRATULATION\n",
+            "unicode": "U+3297"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 179,
+        "fields": {
+            "name": "CIRCLED IDEOGRAPH SECRET\n",
+            "unicode": "U+3299"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 180,
+        "fields": {
+            "name": "MAHJONG TILE RED DRAGON\n",
+            "unicode": "U+1F004"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 181,
+        "fields": {
+            "name": "PLAYING CARD BLACK JOKER\n",
+            "unicode": "U+1F0CF"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 182,
+        "fields": {
+            "name": "NEGATIVE SQUARED LATIN CAPITAL LETTER A\n",
+            "unicode": "U+1F170"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 183,
+        "fields": {
+            "name": "NEGATIVE SQUARED LATIN CAPITAL LETTER B\n",
+            "unicode": "U+1F171"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 184,
+        "fields": {
+            "name": "NEGATIVE SQUARED LATIN CAPITAL LETTER O\n",
+            "unicode": "U+1F17E"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 185,
+        "fields": {
+            "name": "NEGATIVE SQUARED LATIN CAPITAL LETTER P\n",
+            "unicode": "U+1F17F"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 186,
+        "fields": {
+            "name": "NEGATIVE SQUARED AB\n",
+            "unicode": "U+1F18E"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 187,
+        "fields": {
+            "name": "SQUARED CL\n",
+            "unicode": "U+1F191"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 188,
+        "fields": {
+            "name": "SQUARED COOL\n",
+            "unicode": "U+1F192"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 189,
+        "fields": {
+            "name": "SQUARED FREE\n",
+            "unicode": "U+1F193"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 190,
+        "fields": {
+            "name": "SQUARED ID\n",
+            "unicode": "U+1F194"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 191,
+        "fields": {
+            "name": "SQUARED NEW\n",
+            "unicode": "U+1F195"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 192,
+        "fields": {
+            "name": "SQUARED NG\n",
+            "unicode": "U+1F196"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 193,
+        "fields": {
+            "name": "SQUARED OK\n",
+            "unicode": "U+1F197"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 194,
+        "fields": {
+            "name": "SQUARED SOS\n",
+            "unicode": "U+1F198"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 195,
+        "fields": {
+            "name": "SQUARED UP WITH EXCLAMATION MARK\n",
+            "unicode": "U+1F199"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 196,
+        "fields": {
+            "name": "SQUARED VS\n",
+            "unicode": "U+1F19A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 197,
+        "fields": {
+            "name": "REGIONAL INDICATOR SYMBOL LETTER A\n",
+            "unicode": "U+1F1E6"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 198,
+        "fields": {
+            "name": "REGIONAL INDICATOR SYMBOL LETTER B\n",
+            "unicode": "U+1F1E7"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 199,
+        "fields": {
+            "name": "REGIONAL INDICATOR SYMBOL LETTER C\n",
+            "unicode": "U+1F1E8"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 200,
+        "fields": {
+            "name": "REGIONAL INDICATOR SYMBOL LETTER D\n",
+            "unicode": "U+1F1E9"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 201,
+        "fields": {
+            "name": "REGIONAL INDICATOR SYMBOL LETTER E\n",
+            "unicode": "U+1F1EA"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 202,
+        "fields": {
+            "name": "REGIONAL INDICATOR SYMBOL LETTER F\n",
+            "unicode": "U+1F1EB"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 203,
+        "fields": {
+            "name": "REGIONAL INDICATOR SYMBOL LETTER G\n",
+            "unicode": "U+1F1EC"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 204,
+        "fields": {
+            "name": "REGIONAL INDICATOR SYMBOL LETTER H\n",
+            "unicode": "U+1F1ED"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 205,
+        "fields": {
+            "name": "REGIONAL INDICATOR SYMBOL LETTER I\n",
+            "unicode": "U+1F1EE"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 206,
+        "fields": {
+            "name": "REGIONAL INDICATOR SYMBOL LETTER J\n",
+            "unicode": "U+1F1EF"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 207,
+        "fields": {
+            "name": "REGIONAL INDICATOR SYMBOL LETTER K\n",
+            "unicode": "U+1F1F0"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 208,
+        "fields": {
+            "name": "REGIONAL INDICATOR SYMBOL LETTER L\n",
+            "unicode": "U+1F1F1"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 209,
+        "fields": {
+            "name": "REGIONAL INDICATOR SYMBOL LETTER M\n",
+            "unicode": "U+1F1F2"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 210,
+        "fields": {
+            "name": "REGIONAL INDICATOR SYMBOL LETTER N\n",
+            "unicode": "U+1F1F3"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 211,
+        "fields": {
+            "name": "REGIONAL INDICATOR SYMBOL LETTER O\n",
+            "unicode": "U+1F1F4"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 212,
+        "fields": {
+            "name": "REGIONAL INDICATOR SYMBOL LETTER P\n",
+            "unicode": "U+1F1F5"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 213,
+        "fields": {
+            "name": "REGIONAL INDICATOR SYMBOL LETTER Q\n",
+            "unicode": "U+1F1F6"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 214,
+        "fields": {
+            "name": "REGIONAL INDICATOR SYMBOL LETTER R\n",
+            "unicode": "U+1F1F7"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 215,
+        "fields": {
+            "name": "REGIONAL INDICATOR SYMBOL LETTER S\n",
+            "unicode": "U+1F1F8"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 216,
+        "fields": {
+            "name": "REGIONAL INDICATOR SYMBOL LETTER T\n",
+            "unicode": "U+1F1F9"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 217,
+        "fields": {
+            "name": "REGIONAL INDICATOR SYMBOL LETTER U\n",
+            "unicode": "U+1F1FA"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 218,
+        "fields": {
+            "name": "REGIONAL INDICATOR SYMBOL LETTER V\n",
+            "unicode": "U+1F1FB"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 219,
+        "fields": {
+            "name": "REGIONAL INDICATOR SYMBOL LETTER W\n",
+            "unicode": "U+1F1FC"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 220,
+        "fields": {
+            "name": "REGIONAL INDICATOR SYMBOL LETTER X\n",
+            "unicode": "U+1F1FD"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 221,
+        "fields": {
+            "name": "REGIONAL INDICATOR SYMBOL LETTER Y\n",
+            "unicode": "U+1F1FE"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 222,
+        "fields": {
+            "name": "REGIONAL INDICATOR SYMBOL LETTER Z\n",
+            "unicode": "U+1F1FF"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 223,
+        "fields": {
+            "name": "SQUARED KATAKANA KOKO\n",
+            "unicode": "U+1F201"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 224,
+        "fields": {
+            "name": "SQUARED KATAKANA SA\n",
+            "unicode": "U+1F202"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 225,
+        "fields": {
+            "name": "SQUARED CJK UNIFIED IDEOGRAPH-7121\n",
+            "unicode": "U+1F21A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 226,
+        "fields": {
+            "name": "SQUARED CJK UNIFIED IDEOGRAPH-6307\n",
+            "unicode": "U+1F22F"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 227,
+        "fields": {
+            "name": "SQUARED CJK UNIFIED IDEOGRAPH-7981\n",
+            "unicode": "U+1F232"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 228,
+        "fields": {
+            "name": "SQUARED CJK UNIFIED IDEOGRAPH-7A7A\n",
+            "unicode": "U+1F233"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 229,
+        "fields": {
+            "name": "SQUARED CJK UNIFIED IDEOGRAPH-5408\n",
+            "unicode": "U+1F234"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 230,
+        "fields": {
+            "name": "SQUARED CJK UNIFIED IDEOGRAPH-6E80\n",
+            "unicode": "U+1F235"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 231,
+        "fields": {
+            "name": "SQUARED CJK UNIFIED IDEOGRAPH-6709\n",
+            "unicode": "U+1F236"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 232,
+        "fields": {
+            "name": "SQUARED CJK UNIFIED IDEOGRAPH-6708\n",
+            "unicode": "U+1F237"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 233,
+        "fields": {
+            "name": "SQUARED CJK UNIFIED IDEOGRAPH-7533\n",
+            "unicode": "U+1F238"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 234,
+        "fields": {
+            "name": "SQUARED CJK UNIFIED IDEOGRAPH-5272\n",
+            "unicode": "U+1F239"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 235,
+        "fields": {
+            "name": "SQUARED CJK UNIFIED IDEOGRAPH-55B6\n",
+            "unicode": "U+1F23A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 236,
+        "fields": {
+            "name": "CIRCLED IDEOGRAPH ADVANTAGE\n",
+            "unicode": "U+1F250"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 237,
+        "fields": {
+            "name": "CIRCLED IDEOGRAPH ACCEPT\n",
+            "unicode": "U+1F251"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 238,
+        "fields": {
+            "name": "CYCLONE\n",
+            "unicode": "U+1F300"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 239,
+        "fields": {
+            "name": "FOGGY\n",
+            "unicode": "U+1F301"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 240,
+        "fields": {
+            "name": "CLOSED UMBRELLA\n",
+            "unicode": "U+1F302"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 241,
+        "fields": {
+            "name": "NIGHT WITH STARS\n",
+            "unicode": "U+1F303"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 242,
+        "fields": {
+            "name": "SUNRISE OVER MOUNTAINS\n",
+            "unicode": "U+1F304"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 243,
+        "fields": {
+            "name": "SUNRISE\n",
+            "unicode": "U+1F305"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 244,
+        "fields": {
+            "name": "CITYSCAPE AT DUSK\n",
+            "unicode": "U+1F306"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 245,
+        "fields": {
+            "name": "SUNSET OVER BUILDINGS\n",
+            "unicode": "U+1F307"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 246,
+        "fields": {
+            "name": "RAINBOW\n",
+            "unicode": "U+1F308"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 247,
+        "fields": {
+            "name": "BRIDGE AT NIGHT\n",
+            "unicode": "U+1F309"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 248,
+        "fields": {
+            "name": "WATER WAVE\n",
+            "unicode": "U+1F30A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 249,
+        "fields": {
+            "name": "VOLCANO\n",
+            "unicode": "U+1F30B"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 250,
+        "fields": {
+            "name": "MILKY WAY\n",
+            "unicode": "U+1F30C"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 251,
+        "fields": {
+            "name": "EARTH GLOBE EUROPE-AFRICA\n",
+            "unicode": "U+1F30D"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 252,
+        "fields": {
+            "name": "EARTH GLOBE AMERICAS\n",
+            "unicode": "U+1F30E"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 253,
+        "fields": {
+            "name": "EARTH GLOBE ASIA-AUSTRALIA\n",
+            "unicode": "U+1F30F"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 254,
+        "fields": {
+            "name": "GLOBE WITH MERIDIANS\n",
+            "unicode": "U+1F310"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 255,
+        "fields": {
+            "name": "NEW MOON SYMBOL\n",
+            "unicode": "U+1F311"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 256,
+        "fields": {
+            "name": "WAXING CRESCENT MOON SYMBOL\n",
+            "unicode": "U+1F312"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 257,
+        "fields": {
+            "name": "FIRST QUARTER MOON SYMBOL\n",
+            "unicode": "U+1F313"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 258,
+        "fields": {
+            "name": "WAXING GIBBOUS MOON SYMBOL\n",
+            "unicode": "U+1F314"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 259,
+        "fields": {
+            "name": "FULL MOON SYMBOL\n",
+            "unicode": "U+1F315"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 260,
+        "fields": {
+            "name": "WANING GIBBOUS MOON SYMBOL\n",
+            "unicode": "U+1F316"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 261,
+        "fields": {
+            "name": "LAST QUARTER MOON SYMBOL\n",
+            "unicode": "U+1F317"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 262,
+        "fields": {
+            "name": "WANING CRESCENT MOON SYMBOL\n",
+            "unicode": "U+1F318"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 263,
+        "fields": {
+            "name": "CRESCENT MOON\n",
+            "unicode": "U+1F319"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 264,
+        "fields": {
+            "name": "NEW MOON WITH FACE\n",
+            "unicode": "U+1F31A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 265,
+        "fields": {
+            "name": "FIRST QUARTER MOON WITH FACE\n",
+            "unicode": "U+1F31B"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 266,
+        "fields": {
+            "name": "LAST QUARTER MOON WITH FACE\n",
+            "unicode": "U+1F31C"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 267,
+        "fields": {
+            "name": "FULL MOON WITH FACE\n",
+            "unicode": "U+1F31D"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 268,
+        "fields": {
+            "name": "SUN WITH FACE\n",
+            "unicode": "U+1F31E"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 269,
+        "fields": {
+            "name": "GLOWING STAR\n",
+            "unicode": "U+1F31F"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 270,
+        "fields": {
+            "name": "SHOOTING STAR\n",
+            "unicode": "U+1F320"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 271,
+        "fields": {
+            "name": "THERMOMETER\n",
+            "unicode": "U+1F321"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 272,
+        "fields": {
+            "name": "WHITE SUN WITH SMALL CLOUD\n",
+            "unicode": "U+1F324"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 273,
+        "fields": {
+            "name": "WHITE SUN BEHIND CLOUD\n",
+            "unicode": "U+1F325"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 274,
+        "fields": {
+            "name": "WHITE SUN BEHIND CLOUD WITH RAIN\n",
+            "unicode": "U+1F326"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 275,
+        "fields": {
+            "name": "CLOUD WITH RAIN\n",
+            "unicode": "U+1F327"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 276,
+        "fields": {
+            "name": "CLOUD WITH SNOW\n",
+            "unicode": "U+1F328"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 277,
+        "fields": {
+            "name": "CLOUD WITH LIGHTNING\n",
+            "unicode": "U+1F329"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 278,
+        "fields": {
+            "name": "CLOUD WITH TORNADO\n",
+            "unicode": "U+1F32A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 279,
+        "fields": {
+            "name": "FOG\n",
+            "unicode": "U+1F32B"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 280,
+        "fields": {
+            "name": "WIND BLOWING FACE\n",
+            "unicode": "U+1F32C"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 281,
+        "fields": {
+            "name": "HOT DOG\n",
+            "unicode": "U+1F32D"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 282,
+        "fields": {
+            "name": "TACO\n",
+            "unicode": "U+1F32E"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 283,
+        "fields": {
+            "name": "BURRITO\n",
+            "unicode": "U+1F32F"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 284,
+        "fields": {
+            "name": "CHESTNUT\n",
+            "unicode": "U+1F330"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 285,
+        "fields": {
+            "name": "SEEDLING\n",
+            "unicode": "U+1F331"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 286,
+        "fields": {
+            "name": "EVERGREEN TREE\n",
+            "unicode": "U+1F332"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 287,
+        "fields": {
+            "name": "DECIDUOUS TREE\n",
+            "unicode": "U+1F333"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 288,
+        "fields": {
+            "name": "PALM TREE\n",
+            "unicode": "U+1F334"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 289,
+        "fields": {
+            "name": "CACTUS\n",
+            "unicode": "U+1F335"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 290,
+        "fields": {
+            "name": "HOT PEPPER\n",
+            "unicode": "U+1F336"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 291,
+        "fields": {
+            "name": "TULIP\n",
+            "unicode": "U+1F337"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 292,
+        "fields": {
+            "name": "CHERRY BLOSSOM\n",
+            "unicode": "U+1F338"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 293,
+        "fields": {
+            "name": "ROSE\n",
+            "unicode": "U+1F339"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 294,
+        "fields": {
+            "name": "HIBISCUS\n",
+            "unicode": "U+1F33A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 295,
+        "fields": {
+            "name": "SUNFLOWER\n",
+            "unicode": "U+1F33B"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 296,
+        "fields": {
+            "name": "BLOSSOM\n",
+            "unicode": "U+1F33C"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 297,
+        "fields": {
+            "name": "EAR OF MAIZE\n",
+            "unicode": "U+1F33D"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 298,
+        "fields": {
+            "name": "EAR OF RICE\n",
+            "unicode": "U+1F33E"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 299,
+        "fields": {
+            "name": "HERB\n",
+            "unicode": "U+1F33F"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 300,
+        "fields": {
+            "name": "FOUR LEAF CLOVER\n",
+            "unicode": "U+1F340"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 301,
+        "fields": {
+            "name": "MAPLE LEAF\n",
+            "unicode": "U+1F341"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 302,
+        "fields": {
+            "name": "FALLEN LEAF\n",
+            "unicode": "U+1F342"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 303,
+        "fields": {
+            "name": "LEAF FLUTTERING IN WIND\n",
+            "unicode": "U+1F343"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 304,
+        "fields": {
+            "name": "MUSHROOM\n",
+            "unicode": "U+1F344"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 305,
+        "fields": {
+            "name": "TOMATO\n",
+            "unicode": "U+1F345"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 306,
+        "fields": {
+            "name": "AUBERGINE\n",
+            "unicode": "U+1F346"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 307,
+        "fields": {
+            "name": "GRAPES\n",
+            "unicode": "U+1F347"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 308,
+        "fields": {
+            "name": "MELON\n",
+            "unicode": "U+1F348"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 309,
+        "fields": {
+            "name": "WATERMELON\n",
+            "unicode": "U+1F349"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 310,
+        "fields": {
+            "name": "TANGERINE\n",
+            "unicode": "U+1F34A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 311,
+        "fields": {
+            "name": "LEMON\n",
+            "unicode": "U+1F34B"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 312,
+        "fields": {
+            "name": "BANANA\n",
+            "unicode": "U+1F34C"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 313,
+        "fields": {
+            "name": "PINEAPPLE\n",
+            "unicode": "U+1F34D"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 314,
+        "fields": {
+            "name": "RED APPLE\n",
+            "unicode": "U+1F34E"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 315,
+        "fields": {
+            "name": "GREEN APPLE\n",
+            "unicode": "U+1F34F"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 316,
+        "fields": {
+            "name": "PEAR\n",
+            "unicode": "U+1F350"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 317,
+        "fields": {
+            "name": "PEACH\n",
+            "unicode": "U+1F351"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 318,
+        "fields": {
+            "name": "CHERRIES\n",
+            "unicode": "U+1F352"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 319,
+        "fields": {
+            "name": "STRAWBERRY\n",
+            "unicode": "U+1F353"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 320,
+        "fields": {
+            "name": "HAMBURGER\n",
+            "unicode": "U+1F354"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 321,
+        "fields": {
+            "name": "SLICE OF PIZZA\n",
+            "unicode": "U+1F355"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 322,
+        "fields": {
+            "name": "MEAT ON BONE\n",
+            "unicode": "U+1F356"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 323,
+        "fields": {
+            "name": "POULTRY LEG\n",
+            "unicode": "U+1F357"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 324,
+        "fields": {
+            "name": "RICE CRACKER\n",
+            "unicode": "U+1F358"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 325,
+        "fields": {
+            "name": "RICE BALL\n",
+            "unicode": "U+1F359"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 326,
+        "fields": {
+            "name": "COOKED RICE\n",
+            "unicode": "U+1F35A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 327,
+        "fields": {
+            "name": "CURRY AND RICE\n",
+            "unicode": "U+1F35B"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 328,
+        "fields": {
+            "name": "STEAMING BOWL\n",
+            "unicode": "U+1F35C"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 329,
+        "fields": {
+            "name": "SPAGHETTI\n",
+            "unicode": "U+1F35D"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 330,
+        "fields": {
+            "name": "BREAD\n",
+            "unicode": "U+1F35E"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 331,
+        "fields": {
+            "name": "FRENCH FRIES\n",
+            "unicode": "U+1F35F"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 332,
+        "fields": {
+            "name": "ROASTED SWEET POTATO\n",
+            "unicode": "U+1F360"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 333,
+        "fields": {
+            "name": "DANGO\n",
+            "unicode": "U+1F361"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 334,
+        "fields": {
+            "name": "ODEN\n",
+            "unicode": "U+1F362"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 335,
+        "fields": {
+            "name": "SUSHI\n",
+            "unicode": "U+1F363"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 336,
+        "fields": {
+            "name": "FRIED SHRIMP\n",
+            "unicode": "U+1F364"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 337,
+        "fields": {
+            "name": "FISH CAKE WITH SWIRL DESIGN\n",
+            "unicode": "U+1F365"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 338,
+        "fields": {
+            "name": "SOFT ICE CREAM\n",
+            "unicode": "U+1F366"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 339,
+        "fields": {
+            "name": "SHAVED ICE\n",
+            "unicode": "U+1F367"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 340,
+        "fields": {
+            "name": "ICE CREAM\n",
+            "unicode": "U+1F368"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 341,
+        "fields": {
+            "name": "DOUGHNUT\n",
+            "unicode": "U+1F369"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 342,
+        "fields": {
+            "name": "COOKIE\n",
+            "unicode": "U+1F36A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 343,
+        "fields": {
+            "name": "CHOCOLATE BAR\n",
+            "unicode": "U+1F36B"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 344,
+        "fields": {
+            "name": "CANDY\n",
+            "unicode": "U+1F36C"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 345,
+        "fields": {
+            "name": "LOLLIPOP\n",
+            "unicode": "U+1F36D"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 346,
+        "fields": {
+            "name": "CUSTARD\n",
+            "unicode": "U+1F36E"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 347,
+        "fields": {
+            "name": "HONEY POT\n",
+            "unicode": "U+1F36F"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 348,
+        "fields": {
+            "name": "SHORTCAKE\n",
+            "unicode": "U+1F370"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 349,
+        "fields": {
+            "name": "BENTO BOX\n",
+            "unicode": "U+1F371"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 350,
+        "fields": {
+            "name": "POT OF FOOD\n",
+            "unicode": "U+1F372"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 351,
+        "fields": {
+            "name": "COOKING\n",
+            "unicode": "U+1F373"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 352,
+        "fields": {
+            "name": "FORK AND KNIFE\n",
+            "unicode": "U+1F374"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 353,
+        "fields": {
+            "name": "TEACUP WITHOUT HANDLE\n",
+            "unicode": "U+1F375"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 354,
+        "fields": {
+            "name": "SAKE BOTTLE AND CUP\n",
+            "unicode": "U+1F376"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 355,
+        "fields": {
+            "name": "WINE GLASS\n",
+            "unicode": "U+1F377"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 356,
+        "fields": {
+            "name": "COCKTAIL GLASS\n",
+            "unicode": "U+1F378"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 357,
+        "fields": {
+            "name": "TROPICAL DRINK\n",
+            "unicode": "U+1F379"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 358,
+        "fields": {
+            "name": "BEER MUG\n",
+            "unicode": "U+1F37A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 359,
+        "fields": {
+            "name": "CLINKING BEER MUGS\n",
+            "unicode": "U+1F37B"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 360,
+        "fields": {
+            "name": "BABY BOTTLE\n",
+            "unicode": "U+1F37C"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 361,
+        "fields": {
+            "name": "FORK AND KNIFE WITH PLATE\n",
+            "unicode": "U+1F37D"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 362,
+        "fields": {
+            "name": "BOTTLE WITH POPPING CORK\n",
+            "unicode": "U+1F37E"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 363,
+        "fields": {
+            "name": "POPCORN\n",
+            "unicode": "U+1F37F"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 364,
+        "fields": {
+            "name": "RIBBON\n",
+            "unicode": "U+1F380"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 365,
+        "fields": {
+            "name": "WRAPPED PRESENT\n",
+            "unicode": "U+1F381"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 366,
+        "fields": {
+            "name": "BIRTHDAY CAKE\n",
+            "unicode": "U+1F382"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 367,
+        "fields": {
+            "name": "JACK-O-LANTERN\n",
+            "unicode": "U+1F383"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 368,
+        "fields": {
+            "name": "CHRISTMAS TREE\n",
+            "unicode": "U+1F384"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 369,
+        "fields": {
+            "name": "FATHER CHRISTMAS\n",
+            "unicode": "U+1F385"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 370,
+        "fields": {
+            "name": "FIREWORKS\n",
+            "unicode": "U+1F386"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 371,
+        "fields": {
+            "name": "FIREWORK SPARKLER\n",
+            "unicode": "U+1F387"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 372,
+        "fields": {
+            "name": "BALLOON\n",
+            "unicode": "U+1F388"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 373,
+        "fields": {
+            "name": "PARTY POPPER\n",
+            "unicode": "U+1F389"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 374,
+        "fields": {
+            "name": "CONFETTI BALL\n",
+            "unicode": "U+1F38A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 375,
+        "fields": {
+            "name": "TANABATA TREE\n",
+            "unicode": "U+1F38B"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 376,
+        "fields": {
+            "name": "CROSSED FLAGS\n",
+            "unicode": "U+1F38C"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 377,
+        "fields": {
+            "name": "PINE DECORATION\n",
+            "unicode": "U+1F38D"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 378,
+        "fields": {
+            "name": "JAPANESE DOLLS\n",
+            "unicode": "U+1F38E"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 379,
+        "fields": {
+            "name": "CARP STREAMER\n",
+            "unicode": "U+1F38F"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 380,
+        "fields": {
+            "name": "WIND CHIME\n",
+            "unicode": "U+1F390"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 381,
+        "fields": {
+            "name": "MOON VIEWING CEREMONY\n",
+            "unicode": "U+1F391"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 382,
+        "fields": {
+            "name": "SCHOOL SATCHEL\n",
+            "unicode": "U+1F392"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 383,
+        "fields": {
+            "name": "GRADUATION CAP\n",
+            "unicode": "U+1F393"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 384,
+        "fields": {
+            "name": "MILITARY MEDAL\n",
+            "unicode": "U+1F396"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 385,
+        "fields": {
+            "name": "REMINDER RIBBON\n",
+            "unicode": "U+1F397"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 386,
+        "fields": {
+            "name": "STUDIO MICROPHONE\n",
+            "unicode": "U+1F399"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 387,
+        "fields": {
+            "name": "LEVEL SLIDER\n",
+            "unicode": "U+1F39A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 388,
+        "fields": {
+            "name": "CONTROL KNOBS\n",
+            "unicode": "U+1F39B"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 389,
+        "fields": {
+            "name": "FILM FRAMES\n",
+            "unicode": "U+1F39E"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 390,
+        "fields": {
+            "name": "ADMISSION TICKETS\n",
+            "unicode": "U+1F39F"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 391,
+        "fields": {
+            "name": "CAROUSEL HORSE\n",
+            "unicode": "U+1F3A0"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 392,
+        "fields": {
+            "name": "FERRIS WHEEL\n",
+            "unicode": "U+1F3A1"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 393,
+        "fields": {
+            "name": "ROLLER COASTER\n",
+            "unicode": "U+1F3A2"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 394,
+        "fields": {
+            "name": "FISHING POLE AND FISH\n",
+            "unicode": "U+1F3A3"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 395,
+        "fields": {
+            "name": "MICROPHONE\n",
+            "unicode": "U+1F3A4"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 396,
+        "fields": {
+            "name": "MOVIE CAMERA\n",
+            "unicode": "U+1F3A5"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 397,
+        "fields": {
+            "name": "CINEMA\n",
+            "unicode": "U+1F3A6"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 398,
+        "fields": {
+            "name": "HEADPHONE\n",
+            "unicode": "U+1F3A7"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 399,
+        "fields": {
+            "name": "ARTIST PALETTE\n",
+            "unicode": "U+1F3A8"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 400,
+        "fields": {
+            "name": "TOP HAT\n",
+            "unicode": "U+1F3A9"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 401,
+        "fields": {
+            "name": "CIRCUS TENT\n",
+            "unicode": "U+1F3AA"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 402,
+        "fields": {
+            "name": "TICKET\n",
+            "unicode": "U+1F3AB"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 403,
+        "fields": {
+            "name": "CLAPPER BOARD\n",
+            "unicode": "U+1F3AC"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 404,
+        "fields": {
+            "name": "PERFORMING ARTS\n",
+            "unicode": "U+1F3AD"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 405,
+        "fields": {
+            "name": "VIDEO GAME\n",
+            "unicode": "U+1F3AE"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 406,
+        "fields": {
+            "name": "DIRECT HIT\n",
+            "unicode": "U+1F3AF"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 407,
+        "fields": {
+            "name": "SLOT MACHINE\n",
+            "unicode": "U+1F3B0"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 408,
+        "fields": {
+            "name": "BILLIARDS\n",
+            "unicode": "U+1F3B1"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 409,
+        "fields": {
+            "name": "GAME DIE\n",
+            "unicode": "U+1F3B2"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 410,
+        "fields": {
+            "name": "BOWLING\n",
+            "unicode": "U+1F3B3"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 411,
+        "fields": {
+            "name": "FLOWER PLAYING CARDS\n",
+            "unicode": "U+1F3B4"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 412,
+        "fields": {
+            "name": "MUSICAL NOTE\n",
+            "unicode": "U+1F3B5"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 413,
+        "fields": {
+            "name": "MULTIPLE MUSICAL NOTES\n",
+            "unicode": "U+1F3B6"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 414,
+        "fields": {
+            "name": "SAXOPHONE\n",
+            "unicode": "U+1F3B7"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 415,
+        "fields": {
+            "name": "GUITAR\n",
+            "unicode": "U+1F3B8"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 416,
+        "fields": {
+            "name": "MUSICAL KEYBOARD\n",
+            "unicode": "U+1F3B9"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 417,
+        "fields": {
+            "name": "TRUMPET\n",
+            "unicode": "U+1F3BA"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 418,
+        "fields": {
+            "name": "VIOLIN\n",
+            "unicode": "U+1F3BB"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 419,
+        "fields": {
+            "name": "MUSICAL SCORE\n",
+            "unicode": "U+1F3BC"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 420,
+        "fields": {
+            "name": "RUNNING SHIRT WITH SASH\n",
+            "unicode": "U+1F3BD"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 421,
+        "fields": {
+            "name": "TENNIS RACQUET AND BALL\n",
+            "unicode": "U+1F3BE"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 422,
+        "fields": {
+            "name": "SKI AND SKI BOOT\n",
+            "unicode": "U+1F3BF"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 423,
+        "fields": {
+            "name": "BASKETBALL AND HOOP\n",
+            "unicode": "U+1F3C0"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 424,
+        "fields": {
+            "name": "CHEQUERED FLAG\n",
+            "unicode": "U+1F3C1"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 425,
+        "fields": {
+            "name": "SNOWBOARDER\n",
+            "unicode": "U+1F3C2"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 426,
+        "fields": {
+            "name": "RUNNER\n",
+            "unicode": "U+1F3C3"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 427,
+        "fields": {
+            "name": "SURFER\n",
+            "unicode": "U+1F3C4"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 428,
+        "fields": {
+            "name": "SPORTS MEDAL\n",
+            "unicode": "U+1F3C5"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 429,
+        "fields": {
+            "name": "TROPHY\n",
+            "unicode": "U+1F3C6"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 430,
+        "fields": {
+            "name": "HORSE RACING\n",
+            "unicode": "U+1F3C7"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 431,
+        "fields": {
+            "name": "AMERICAN FOOTBALL\n",
+            "unicode": "U+1F3C8"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 432,
+        "fields": {
+            "name": "RUGBY FOOTBALL\n",
+            "unicode": "U+1F3C9"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 433,
+        "fields": {
+            "name": "SWIMMER\n",
+            "unicode": "U+1F3CA"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 434,
+        "fields": {
+            "name": "WEIGHT LIFTER\n",
+            "unicode": "U+1F3CB"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 435,
+        "fields": {
+            "name": "GOLFER\n",
+            "unicode": "U+1F3CC"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 436,
+        "fields": {
+            "name": "RACING MOTORCYCLE\n",
+            "unicode": "U+1F3CD"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 437,
+        "fields": {
+            "name": "RACING CAR\n",
+            "unicode": "U+1F3CE"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 438,
+        "fields": {
+            "name": "CRICKET BAT AND BALL\n",
+            "unicode": "U+1F3CF"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 439,
+        "fields": {
+            "name": "VOLLEYBALL\n",
+            "unicode": "U+1F3D0"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 440,
+        "fields": {
+            "name": "FIELD HOCKEY STICK AND BALL\n",
+            "unicode": "U+1F3D1"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 441,
+        "fields": {
+            "name": "ICE HOCKEY STICK AND PUCK\n",
+            "unicode": "U+1F3D2"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 442,
+        "fields": {
+            "name": "TABLE TENNIS PADDLE AND BALL\n",
+            "unicode": "U+1F3D3"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 443,
+        "fields": {
+            "name": "SNOW CAPPED MOUNTAIN\n",
+            "unicode": "U+1F3D4"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 444,
+        "fields": {
+            "name": "CAMPING\n",
+            "unicode": "U+1F3D5"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 445,
+        "fields": {
+            "name": "BEACH WITH UMBRELLA\n",
+            "unicode": "U+1F3D6"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 446,
+        "fields": {
+            "name": "BUILDING CONSTRUCTION\n",
+            "unicode": "U+1F3D7"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 447,
+        "fields": {
+            "name": "HOUSE BUILDINGS\n",
+            "unicode": "U+1F3D8"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 448,
+        "fields": {
+            "name": "CITYSCAPE\n",
+            "unicode": "U+1F3D9"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 449,
+        "fields": {
+            "name": "DERELICT HOUSE BUILDING\n",
+            "unicode": "U+1F3DA"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 450,
+        "fields": {
+            "name": "CLASSICAL BUILDING\n",
+            "unicode": "U+1F3DB"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 451,
+        "fields": {
+            "name": "DESERT\n",
+            "unicode": "U+1F3DC"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 452,
+        "fields": {
+            "name": "DESERT ISLAND\n",
+            "unicode": "U+1F3DD"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 453,
+        "fields": {
+            "name": "NATIONAL PARK\n",
+            "unicode": "U+1F3DE"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 454,
+        "fields": {
+            "name": "STADIUM\n",
+            "unicode": "U+1F3DF"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 455,
+        "fields": {
+            "name": "HOUSE BUILDING\n",
+            "unicode": "U+1F3E0"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 456,
+        "fields": {
+            "name": "HOUSE WITH GARDEN\n",
+            "unicode": "U+1F3E1"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 457,
+        "fields": {
+            "name": "OFFICE BUILDING\n",
+            "unicode": "U+1F3E2"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 458,
+        "fields": {
+            "name": "JAPANESE POST OFFICE\n",
+            "unicode": "U+1F3E3"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 459,
+        "fields": {
+            "name": "EUROPEAN POST OFFICE\n",
+            "unicode": "U+1F3E4"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 460,
+        "fields": {
+            "name": "HOSPITAL\n",
+            "unicode": "U+1F3E5"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 461,
+        "fields": {
+            "name": "BANK\n",
+            "unicode": "U+1F3E6"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 462,
+        "fields": {
+            "name": "AUTOMATED TELLER MACHINE\n",
+            "unicode": "U+1F3E7"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 463,
+        "fields": {
+            "name": "HOTEL\n",
+            "unicode": "U+1F3E8"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 464,
+        "fields": {
+            "name": "LOVE HOTEL\n",
+            "unicode": "U+1F3E9"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 465,
+        "fields": {
+            "name": "CONVENIENCE STORE\n",
+            "unicode": "U+1F3EA"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 466,
+        "fields": {
+            "name": "SCHOOL\n",
+            "unicode": "U+1F3EB"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 467,
+        "fields": {
+            "name": "DEPARTMENT STORE\n",
+            "unicode": "U+1F3EC"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 468,
+        "fields": {
+            "name": "FACTORY\n",
+            "unicode": "U+1F3ED"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 469,
+        "fields": {
+            "name": "IZAKAYA LANTERN\n",
+            "unicode": "U+1F3EE"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 470,
+        "fields": {
+            "name": "JAPANESE CASTLE\n",
+            "unicode": "U+1F3EF"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 471,
+        "fields": {
+            "name": "EUROPEAN CASTLE\n",
+            "unicode": "U+1F3F0"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 472,
+        "fields": {
+            "name": "WAVING WHITE FLAG\n",
+            "unicode": "U+1F3F3"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 473,
+        "fields": {
+            "name": "WAVING BLACK FLAG\n",
+            "unicode": "U+1F3F4"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 474,
+        "fields": {
+            "name": "ROSETTE\n",
+            "unicode": "U+1F3F5"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 475,
+        "fields": {
+            "name": "LABEL\n",
+            "unicode": "U+1F3F7"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 476,
+        "fields": {
+            "name": "BADMINTON RACQUET AND SHUTTLECOCK\n",
+            "unicode": "U+1F3F8"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 477,
+        "fields": {
+            "name": "BOW AND ARROW\n",
+            "unicode": "U+1F3F9"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 478,
+        "fields": {
+            "name": "AMPHORA\n",
+            "unicode": "U+1F3FA"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 479,
+        "fields": {
+            "name": "EMOJI MODIFIER FITZPATRICK TYPE-1-2\n",
+            "unicode": "U+1F3FB"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 480,
+        "fields": {
+            "name": "EMOJI MODIFIER FITZPATRICK TYPE-3\n",
+            "unicode": "U+1F3FC"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 481,
+        "fields": {
+            "name": "EMOJI MODIFIER FITZPATRICK TYPE-4\n",
+            "unicode": "U+1F3FD"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 482,
+        "fields": {
+            "name": "EMOJI MODIFIER FITZPATRICK TYPE-5\n",
+            "unicode": "U+1F3FE"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 483,
+        "fields": {
+            "name": "EMOJI MODIFIER FITZPATRICK TYPE-6\n",
+            "unicode": "U+1F3FF"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 484,
+        "fields": {
+            "name": "RAT\n",
+            "unicode": "U+1F400"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 485,
+        "fields": {
+            "name": "MOUSE\n",
+            "unicode": "U+1F401"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 486,
+        "fields": {
+            "name": "OX\n",
+            "unicode": "U+1F402"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 487,
+        "fields": {
+            "name": "WATER BUFFALO\n",
+            "unicode": "U+1F403"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 488,
+        "fields": {
+            "name": "COW\n",
+            "unicode": "U+1F404"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 489,
+        "fields": {
+            "name": "TIGER\n",
+            "unicode": "U+1F405"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 490,
+        "fields": {
+            "name": "LEOPARD\n",
+            "unicode": "U+1F406"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 491,
+        "fields": {
+            "name": "RABBIT\n",
+            "unicode": "U+1F407"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 492,
+        "fields": {
+            "name": "CAT\n",
+            "unicode": "U+1F408"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 493,
+        "fields": {
+            "name": "DRAGON\n",
+            "unicode": "U+1F409"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 494,
+        "fields": {
+            "name": "CROCODILE\n",
+            "unicode": "U+1F40A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 495,
+        "fields": {
+            "name": "WHALE\n",
+            "unicode": "U+1F40B"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 496,
+        "fields": {
+            "name": "SNAIL\n",
+            "unicode": "U+1F40C"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 497,
+        "fields": {
+            "name": "SNAKE\n",
+            "unicode": "U+1F40D"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 498,
+        "fields": {
+            "name": "HORSE\n",
+            "unicode": "U+1F40E"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 499,
+        "fields": {
+            "name": "RAM\n",
+            "unicode": "U+1F40F"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 500,
+        "fields": {
+            "name": "GOAT\n",
+            "unicode": "U+1F410"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 501,
+        "fields": {
+            "name": "SHEEP\n",
+            "unicode": "U+1F411"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 502,
+        "fields": {
+            "name": "MONKEY\n",
+            "unicode": "U+1F412"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 503,
+        "fields": {
+            "name": "ROOSTER\n",
+            "unicode": "U+1F413"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 504,
+        "fields": {
+            "name": "CHICKEN\n",
+            "unicode": "U+1F414"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 505,
+        "fields": {
+            "name": "DOG\n",
+            "unicode": "U+1F415"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 506,
+        "fields": {
+            "name": "PIG\n",
+            "unicode": "U+1F416"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 507,
+        "fields": {
+            "name": "BOAR\n",
+            "unicode": "U+1F417"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 508,
+        "fields": {
+            "name": "ELEPHANT\n",
+            "unicode": "U+1F418"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 509,
+        "fields": {
+            "name": "OCTOPUS\n",
+            "unicode": "U+1F419"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 510,
+        "fields": {
+            "name": "SPIRAL SHELL\n",
+            "unicode": "U+1F41A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 511,
+        "fields": {
+            "name": "BUG\n",
+            "unicode": "U+1F41B"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 512,
+        "fields": {
+            "name": "ANT\n",
+            "unicode": "U+1F41C"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 513,
+        "fields": {
+            "name": "HONEYBEE\n",
+            "unicode": "U+1F41D"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 514,
+        "fields": {
+            "name": "LADY BEETLE\n",
+            "unicode": "U+1F41E"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 515,
+        "fields": {
+            "name": "FISH\n",
+            "unicode": "U+1F41F"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 516,
+        "fields": {
+            "name": "TROPICAL FISH\n",
+            "unicode": "U+1F420"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 517,
+        "fields": {
+            "name": "BLOWFISH\n",
+            "unicode": "U+1F421"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 518,
+        "fields": {
+            "name": "TURTLE\n",
+            "unicode": "U+1F422"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 519,
+        "fields": {
+            "name": "HATCHING CHICK\n",
+            "unicode": "U+1F423"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 520,
+        "fields": {
+            "name": "BABY CHICK\n",
+            "unicode": "U+1F424"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 521,
+        "fields": {
+            "name": "FRONT-FACING BABY CHICK\n",
+            "unicode": "U+1F425"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 522,
+        "fields": {
+            "name": "BIRD\n",
+            "unicode": "U+1F426"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 523,
+        "fields": {
+            "name": "PENGUIN\n",
+            "unicode": "U+1F427"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 524,
+        "fields": {
+            "name": "KOALA\n",
+            "unicode": "U+1F428"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 525,
+        "fields": {
+            "name": "POODLE\n",
+            "unicode": "U+1F429"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 526,
+        "fields": {
+            "name": "DROMEDARY CAMEL\n",
+            "unicode": "U+1F42A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 527,
+        "fields": {
+            "name": "BACTRIAN CAMEL\n",
+            "unicode": "U+1F42B"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 528,
+        "fields": {
+            "name": "DOLPHIN\n",
+            "unicode": "U+1F42C"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 529,
+        "fields": {
+            "name": "MOUSE FACE\n",
+            "unicode": "U+1F42D"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 530,
+        "fields": {
+            "name": "COW FACE\n",
+            "unicode": "U+1F42E"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 531,
+        "fields": {
+            "name": "TIGER FACE\n",
+            "unicode": "U+1F42F"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 532,
+        "fields": {
+            "name": "RABBIT FACE\n",
+            "unicode": "U+1F430"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 533,
+        "fields": {
+            "name": "CAT FACE\n",
+            "unicode": "U+1F431"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 534,
+        "fields": {
+            "name": "DRAGON FACE\n",
+            "unicode": "U+1F432"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 535,
+        "fields": {
+            "name": "SPOUTING WHALE\n",
+            "unicode": "U+1F433"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 536,
+        "fields": {
+            "name": "HORSE FACE\n",
+            "unicode": "U+1F434"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 537,
+        "fields": {
+            "name": "MONKEY FACE\n",
+            "unicode": "U+1F435"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 538,
+        "fields": {
+            "name": "DOG FACE\n",
+            "unicode": "U+1F436"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 539,
+        "fields": {
+            "name": "PIG FACE\n",
+            "unicode": "U+1F437"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 540,
+        "fields": {
+            "name": "FROG FACE\n",
+            "unicode": "U+1F438"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 541,
+        "fields": {
+            "name": "HAMSTER FACE\n",
+            "unicode": "U+1F439"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 542,
+        "fields": {
+            "name": "WOLF FACE\n",
+            "unicode": "U+1F43A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 543,
+        "fields": {
+            "name": "BEAR FACE\n",
+            "unicode": "U+1F43B"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 544,
+        "fields": {
+            "name": "PANDA FACE\n",
+            "unicode": "U+1F43C"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 545,
+        "fields": {
+            "name": "PIG NOSE\n",
+            "unicode": "U+1F43D"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 546,
+        "fields": {
+            "name": "PAW PRINTS\n",
+            "unicode": "U+1F43E"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 547,
+        "fields": {
+            "name": "CHIPMUNK\n",
+            "unicode": "U+1F43F"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 548,
+        "fields": {
+            "name": "EYES\n",
+            "unicode": "U+1F440"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 549,
+        "fields": {
+            "name": "EYE\n",
+            "unicode": "U+1F441"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 550,
+        "fields": {
+            "name": "EAR\n",
+            "unicode": "U+1F442"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 551,
+        "fields": {
+            "name": "NOSE\n",
+            "unicode": "U+1F443"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 552,
+        "fields": {
+            "name": "MOUTH\n",
+            "unicode": "U+1F444"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 553,
+        "fields": {
+            "name": "TONGUE\n",
+            "unicode": "U+1F445"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 554,
+        "fields": {
+            "name": "WHITE UP POINTING BACKHAND INDEX\n",
+            "unicode": "U+1F446"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 555,
+        "fields": {
+            "name": "WHITE DOWN POINTING BACKHAND INDEX\n",
+            "unicode": "U+1F447"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 556,
+        "fields": {
+            "name": "WHITE LEFT POINTING BACKHAND INDEX\n",
+            "unicode": "U+1F448"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 557,
+        "fields": {
+            "name": "WHITE RIGHT POINTING BACKHAND INDEX\n",
+            "unicode": "U+1F449"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 558,
+        "fields": {
+            "name": "FISTED HAND SIGN\n",
+            "unicode": "U+1F44A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 559,
+        "fields": {
+            "name": "WAVING HAND SIGN\n",
+            "unicode": "U+1F44B"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 560,
+        "fields": {
+            "name": "OK HAND SIGN\n",
+            "unicode": "U+1F44C"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 561,
+        "fields": {
+            "name": "THUMBS UP SIGN\n",
+            "unicode": "U+1F44D"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 562,
+        "fields": {
+            "name": "THUMBS DOWN SIGN\n",
+            "unicode": "U+1F44E"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 563,
+        "fields": {
+            "name": "CLAPPING HANDS SIGN\n",
+            "unicode": "U+1F44F"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 564,
+        "fields": {
+            "name": "OPEN HANDS SIGN\n",
+            "unicode": "U+1F450"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 565,
+        "fields": {
+            "name": "CROWN\n",
+            "unicode": "U+1F451"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 566,
+        "fields": {
+            "name": "WOMANS HAT\n",
+            "unicode": "U+1F452"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 567,
+        "fields": {
+            "name": "EYEGLASSES\n",
+            "unicode": "U+1F453"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 568,
+        "fields": {
+            "name": "NECKTIE\n",
+            "unicode": "U+1F454"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 569,
+        "fields": {
+            "name": "T-SHIRT\n",
+            "unicode": "U+1F455"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 570,
+        "fields": {
+            "name": "JEANS\n",
+            "unicode": "U+1F456"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 571,
+        "fields": {
+            "name": "DRESS\n",
+            "unicode": "U+1F457"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 572,
+        "fields": {
+            "name": "KIMONO\n",
+            "unicode": "U+1F458"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 573,
+        "fields": {
+            "name": "BIKINI\n",
+            "unicode": "U+1F459"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 574,
+        "fields": {
+            "name": "WOMANS CLOTHES\n",
+            "unicode": "U+1F45A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 575,
+        "fields": {
+            "name": "PURSE\n",
+            "unicode": "U+1F45B"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 576,
+        "fields": {
+            "name": "HANDBAG\n",
+            "unicode": "U+1F45C"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 577,
+        "fields": {
+            "name": "POUCH\n",
+            "unicode": "U+1F45D"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 578,
+        "fields": {
+            "name": "MANS SHOE\n",
+            "unicode": "U+1F45E"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 579,
+        "fields": {
+            "name": "ATHLETIC SHOE\n",
+            "unicode": "U+1F45F"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 580,
+        "fields": {
+            "name": "HIGH-HEELED SHOE\n",
+            "unicode": "U+1F460"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 581,
+        "fields": {
+            "name": "WOMANS SANDAL\n",
+            "unicode": "U+1F461"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 582,
+        "fields": {
+            "name": "WOMANS BOOTS\n",
+            "unicode": "U+1F462"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 583,
+        "fields": {
+            "name": "FOOTPRINTS\n",
+            "unicode": "U+1F463"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 584,
+        "fields": {
+            "name": "BUST IN SILHOUETTE\n",
+            "unicode": "U+1F464"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 585,
+        "fields": {
+            "name": "BUSTS IN SILHOUETTE\n",
+            "unicode": "U+1F465"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 586,
+        "fields": {
+            "name": "BOY\n",
+            "unicode": "U+1F466"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 587,
+        "fields": {
+            "name": "GIRL\n",
+            "unicode": "U+1F467"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 588,
+        "fields": {
+            "name": "MAN\n",
+            "unicode": "U+1F468"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 589,
+        "fields": {
+            "name": "WOMAN\n",
+            "unicode": "U+1F469"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 590,
+        "fields": {
+            "name": "FAMILY\n",
+            "unicode": "U+1F46A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 591,
+        "fields": {
+            "name": "MAN AND WOMAN HOLDING HANDS\n",
+            "unicode": "U+1F46B"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 592,
+        "fields": {
+            "name": "TWO MEN HOLDING HANDS\n",
+            "unicode": "U+1F46C"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 593,
+        "fields": {
+            "name": "TWO WOMEN HOLDING HANDS\n",
+            "unicode": "U+1F46D"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 594,
+        "fields": {
+            "name": "POLICE OFFICER\n",
+            "unicode": "U+1F46E"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 595,
+        "fields": {
+            "name": "WOMAN WITH BUNNY EARS\n",
+            "unicode": "U+1F46F"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 596,
+        "fields": {
+            "name": "BRIDE WITH VEIL\n",
+            "unicode": "U+1F470"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 597,
+        "fields": {
+            "name": "PERSON WITH BLOND HAIR\n",
+            "unicode": "U+1F471"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 598,
+        "fields": {
+            "name": "MAN WITH GUA PI MAO\n",
+            "unicode": "U+1F472"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 599,
+        "fields": {
+            "name": "MAN WITH TURBAN\n",
+            "unicode": "U+1F473"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 600,
+        "fields": {
+            "name": "OLDER MAN\n",
+            "unicode": "U+1F474"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 601,
+        "fields": {
+            "name": "OLDER WOMAN\n",
+            "unicode": "U+1F475"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 602,
+        "fields": {
+            "name": "BABY\n",
+            "unicode": "U+1F476"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 603,
+        "fields": {
+            "name": "CONSTRUCTION WORKER\n",
+            "unicode": "U+1F477"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 604,
+        "fields": {
+            "name": "PRINCESS\n",
+            "unicode": "U+1F478"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 605,
+        "fields": {
+            "name": "JAPANESE OGRE\n",
+            "unicode": "U+1F479"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 606,
+        "fields": {
+            "name": "JAPANESE GOBLIN\n",
+            "unicode": "U+1F47A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 607,
+        "fields": {
+            "name": "GHOST\n",
+            "unicode": "U+1F47B"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 608,
+        "fields": {
+            "name": "BABY ANGEL\n",
+            "unicode": "U+1F47C"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 609,
+        "fields": {
+            "name": "EXTRATERRESTRIAL ALIEN\n",
+            "unicode": "U+1F47D"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 610,
+        "fields": {
+            "name": "ALIEN MONSTER\n",
+            "unicode": "U+1F47E"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 611,
+        "fields": {
+            "name": "IMP\n",
+            "unicode": "U+1F47F"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 612,
+        "fields": {
+            "name": "SKULL\n",
+            "unicode": "U+1F480"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 613,
+        "fields": {
+            "name": "INFORMATION DESK PERSON\n",
+            "unicode": "U+1F481"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 614,
+        "fields": {
+            "name": "GUARDSMAN\n",
+            "unicode": "U+1F482"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 615,
+        "fields": {
+            "name": "DANCER\n",
+            "unicode": "U+1F483"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 616,
+        "fields": {
+            "name": "LIPSTICK\n",
+            "unicode": "U+1F484"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 617,
+        "fields": {
+            "name": "NAIL POLISH\n",
+            "unicode": "U+1F485"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 618,
+        "fields": {
+            "name": "FACE MASSAGE\n",
+            "unicode": "U+1F486"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 619,
+        "fields": {
+            "name": "HAIRCUT\n",
+            "unicode": "U+1F487"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 620,
+        "fields": {
+            "name": "BARBER POLE\n",
+            "unicode": "U+1F488"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 621,
+        "fields": {
+            "name": "SYRINGE\n",
+            "unicode": "U+1F489"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 622,
+        "fields": {
+            "name": "PILL\n",
+            "unicode": "U+1F48A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 623,
+        "fields": {
+            "name": "KISS MARK\n",
+            "unicode": "U+1F48B"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 624,
+        "fields": {
+            "name": "LOVE LETTER\n",
+            "unicode": "U+1F48C"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 625,
+        "fields": {
+            "name": "RING\n",
+            "unicode": "U+1F48D"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 626,
+        "fields": {
+            "name": "GEM STONE\n",
+            "unicode": "U+1F48E"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 627,
+        "fields": {
+            "name": "KISS\n",
+            "unicode": "U+1F48F"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 628,
+        "fields": {
+            "name": "BOUQUET\n",
+            "unicode": "U+1F490"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 629,
+        "fields": {
+            "name": "COUPLE WITH HEART\n",
+            "unicode": "U+1F491"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 630,
+        "fields": {
+            "name": "WEDDING\n",
+            "unicode": "U+1F492"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 631,
+        "fields": {
+            "name": "BEATING HEART\n",
+            "unicode": "U+1F493"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 632,
+        "fields": {
+            "name": "BROKEN HEART\n",
+            "unicode": "U+1F494"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 633,
+        "fields": {
+            "name": "TWO HEARTS\n",
+            "unicode": "U+1F495"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 634,
+        "fields": {
+            "name": "SPARKLING HEART\n",
+            "unicode": "U+1F496"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 635,
+        "fields": {
+            "name": "GROWING HEART\n",
+            "unicode": "U+1F497"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 636,
+        "fields": {
+            "name": "HEART WITH ARROW\n",
+            "unicode": "U+1F498"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 637,
+        "fields": {
+            "name": "BLUE HEART\n",
+            "unicode": "U+1F499"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 638,
+        "fields": {
+            "name": "GREEN HEART\n",
+            "unicode": "U+1F49A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 639,
+        "fields": {
+            "name": "YELLOW HEART\n",
+            "unicode": "U+1F49B"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 640,
+        "fields": {
+            "name": "PURPLE HEART\n",
+            "unicode": "U+1F49C"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 641,
+        "fields": {
+            "name": "HEART WITH RIBBON\n",
+            "unicode": "U+1F49D"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 642,
+        "fields": {
+            "name": "REVOLVING HEARTS\n",
+            "unicode": "U+1F49E"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 643,
+        "fields": {
+            "name": "HEART DECORATION\n",
+            "unicode": "U+1F49F"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 644,
+        "fields": {
+            "name": "DIAMOND SHAPE WITH A DOT INSIDE\n",
+            "unicode": "U+1F4A0"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 645,
+        "fields": {
+            "name": "ELECTRIC LIGHT BULB\n",
+            "unicode": "U+1F4A1"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 646,
+        "fields": {
+            "name": "ANGER SYMBOL\n",
+            "unicode": "U+1F4A2"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 647,
+        "fields": {
+            "name": "BOMB\n",
+            "unicode": "U+1F4A3"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 648,
+        "fields": {
+            "name": "SLEEPING SYMBOL\n",
+            "unicode": "U+1F4A4"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 649,
+        "fields": {
+            "name": "COLLISION SYMBOL\n",
+            "unicode": "U+1F4A5"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 650,
+        "fields": {
+            "name": "SPLASHING SWEAT SYMBOL\n",
+            "unicode": "U+1F4A6"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 651,
+        "fields": {
+            "name": "DROPLET\n",
+            "unicode": "U+1F4A7"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 652,
+        "fields": {
+            "name": "DASH SYMBOL\n",
+            "unicode": "U+1F4A8"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 653,
+        "fields": {
+            "name": "PILE OF POO\n",
+            "unicode": "U+1F4A9"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 654,
+        "fields": {
+            "name": "FLEXED BICEPS\n",
+            "unicode": "U+1F4AA"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 655,
+        "fields": {
+            "name": "DIZZY SYMBOL\n",
+            "unicode": "U+1F4AB"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 656,
+        "fields": {
+            "name": "SPEECH BALLOON\n",
+            "unicode": "U+1F4AC"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 657,
+        "fields": {
+            "name": "THOUGHT BALLOON\n",
+            "unicode": "U+1F4AD"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 658,
+        "fields": {
+            "name": "WHITE FLOWER\n",
+            "unicode": "U+1F4AE"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 659,
+        "fields": {
+            "name": "HUNDRED POINTS SYMBOL\n",
+            "unicode": "U+1F4AF"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 660,
+        "fields": {
+            "name": "MONEY BAG\n",
+            "unicode": "U+1F4B0"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 661,
+        "fields": {
+            "name": "CURRENCY EXCHANGE\n",
+            "unicode": "U+1F4B1"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 662,
+        "fields": {
+            "name": "HEAVY DOLLAR SIGN\n",
+            "unicode": "U+1F4B2"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 663,
+        "fields": {
+            "name": "CREDIT CARD\n",
+            "unicode": "U+1F4B3"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 664,
+        "fields": {
+            "name": "BANKNOTE WITH YEN SIGN\n",
+            "unicode": "U+1F4B4"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 665,
+        "fields": {
+            "name": "BANKNOTE WITH DOLLAR SIGN\n",
+            "unicode": "U+1F4B5"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 666,
+        "fields": {
+            "name": "BANKNOTE WITH EURO SIGN\n",
+            "unicode": "U+1F4B6"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 667,
+        "fields": {
+            "name": "BANKNOTE WITH POUND SIGN\n",
+            "unicode": "U+1F4B7"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 668,
+        "fields": {
+            "name": "MONEY WITH WINGS\n",
+            "unicode": "U+1F4B8"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 669,
+        "fields": {
+            "name": "CHART WITH UPWARDS TREND AND YEN SIGN\n",
+            "unicode": "U+1F4B9"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 670,
+        "fields": {
+            "name": "SEAT\n",
+            "unicode": "U+1F4BA"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 671,
+        "fields": {
+            "name": "PERSONAL COMPUTER\n",
+            "unicode": "U+1F4BB"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 672,
+        "fields": {
+            "name": "BRIEFCASE\n",
+            "unicode": "U+1F4BC"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 673,
+        "fields": {
+            "name": "MINIDISC\n",
+            "unicode": "U+1F4BD"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 674,
+        "fields": {
+            "name": "FLOPPY DISK\n",
+            "unicode": "U+1F4BE"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 675,
+        "fields": {
+            "name": "OPTICAL DISC\n",
+            "unicode": "U+1F4BF"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 676,
+        "fields": {
+            "name": "DVD\n",
+            "unicode": "U+1F4C0"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 677,
+        "fields": {
+            "name": "FILE FOLDER\n",
+            "unicode": "U+1F4C1"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 678,
+        "fields": {
+            "name": "OPEN FILE FOLDER\n",
+            "unicode": "U+1F4C2"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 679,
+        "fields": {
+            "name": "PAGE WITH CURL\n",
+            "unicode": "U+1F4C3"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 680,
+        "fields": {
+            "name": "PAGE FACING UP\n",
+            "unicode": "U+1F4C4"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 681,
+        "fields": {
+            "name": "CALENDAR\n",
+            "unicode": "U+1F4C5"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 682,
+        "fields": {
+            "name": "TEAR-OFF CALENDAR\n",
+            "unicode": "U+1F4C6"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 683,
+        "fields": {
+            "name": "CARD INDEX\n",
+            "unicode": "U+1F4C7"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 684,
+        "fields": {
+            "name": "CHART WITH UPWARDS TREND\n",
+            "unicode": "U+1F4C8"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 685,
+        "fields": {
+            "name": "CHART WITH DOWNWARDS TREND\n",
+            "unicode": "U+1F4C9"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 686,
+        "fields": {
+            "name": "BAR CHART\n",
+            "unicode": "U+1F4CA"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 687,
+        "fields": {
+            "name": "CLIPBOARD\n",
+            "unicode": "U+1F4CB"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 688,
+        "fields": {
+            "name": "PUSHPIN\n",
+            "unicode": "U+1F4CC"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 689,
+        "fields": {
+            "name": "ROUND PUSHPIN\n",
+            "unicode": "U+1F4CD"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 690,
+        "fields": {
+            "name": "PAPERCLIP\n",
+            "unicode": "U+1F4CE"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 691,
+        "fields": {
+            "name": "STRAIGHT RULER\n",
+            "unicode": "U+1F4CF"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 692,
+        "fields": {
+            "name": "TRIANGULAR RULER\n",
+            "unicode": "U+1F4D0"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 693,
+        "fields": {
+            "name": "BOOKMARK TABS\n",
+            "unicode": "U+1F4D1"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 694,
+        "fields": {
+            "name": "LEDGER\n",
+            "unicode": "U+1F4D2"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 695,
+        "fields": {
+            "name": "NOTEBOOK\n",
+            "unicode": "U+1F4D3"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 696,
+        "fields": {
+            "name": "NOTEBOOK WITH DECORATIVE COVER\n",
+            "unicode": "U+1F4D4"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 697,
+        "fields": {
+            "name": "CLOSED BOOK\n",
+            "unicode": "U+1F4D5"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 698,
+        "fields": {
+            "name": "OPEN BOOK\n",
+            "unicode": "U+1F4D6"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 699,
+        "fields": {
+            "name": "GREEN BOOK\n",
+            "unicode": "U+1F4D7"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 700,
+        "fields": {
+            "name": "BLUE BOOK\n",
+            "unicode": "U+1F4D8"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 701,
+        "fields": {
+            "name": "ORANGE BOOK\n",
+            "unicode": "U+1F4D9"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 702,
+        "fields": {
+            "name": "BOOKS\n",
+            "unicode": "U+1F4DA"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 703,
+        "fields": {
+            "name": "NAME BADGE\n",
+            "unicode": "U+1F4DB"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 704,
+        "fields": {
+            "name": "SCROLL\n",
+            "unicode": "U+1F4DC"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 705,
+        "fields": {
+            "name": "MEMO\n",
+            "unicode": "U+1F4DD"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 706,
+        "fields": {
+            "name": "TELEPHONE RECEIVER\n",
+            "unicode": "U+1F4DE"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 707,
+        "fields": {
+            "name": "PAGER\n",
+            "unicode": "U+1F4DF"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 708,
+        "fields": {
+            "name": "FAX MACHINE\n",
+            "unicode": "U+1F4E0"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 709,
+        "fields": {
+            "name": "SATELLITE ANTENNA\n",
+            "unicode": "U+1F4E1"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 710,
+        "fields": {
+            "name": "PUBLIC ADDRESS LOUDSPEAKER\n",
+            "unicode": "U+1F4E2"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 711,
+        "fields": {
+            "name": "CHEERING MEGAPHONE\n",
+            "unicode": "U+1F4E3"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 712,
+        "fields": {
+            "name": "OUTBOX TRAY\n",
+            "unicode": "U+1F4E4"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 713,
+        "fields": {
+            "name": "INBOX TRAY\n",
+            "unicode": "U+1F4E5"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 714,
+        "fields": {
+            "name": "PACKAGE\n",
+            "unicode": "U+1F4E6"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 715,
+        "fields": {
+            "name": "E-MAIL SYMBOL\n",
+            "unicode": "U+1F4E7"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 716,
+        "fields": {
+            "name": "INCOMING ENVELOPE\n",
+            "unicode": "U+1F4E8"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 717,
+        "fields": {
+            "name": "ENVELOPE WITH DOWNWARDS ARROW ABOVE\n",
+            "unicode": "U+1F4E9"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 718,
+        "fields": {
+            "name": "CLOSED MAILBOX WITH LOWERED FLAG\n",
+            "unicode": "U+1F4EA"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 719,
+        "fields": {
+            "name": "CLOSED MAILBOX WITH RAISED FLAG\n",
+            "unicode": "U+1F4EB"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 720,
+        "fields": {
+            "name": "OPEN MAILBOX WITH RAISED FLAG\n",
+            "unicode": "U+1F4EC"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 721,
+        "fields": {
+            "name": "OPEN MAILBOX WITH LOWERED FLAG\n",
+            "unicode": "U+1F4ED"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 722,
+        "fields": {
+            "name": "POSTBOX\n",
+            "unicode": "U+1F4EE"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 723,
+        "fields": {
+            "name": "POSTAL HORN\n",
+            "unicode": "U+1F4EF"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 724,
+        "fields": {
+            "name": "NEWSPAPER\n",
+            "unicode": "U+1F4F0"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 725,
+        "fields": {
+            "name": "MOBILE PHONE\n",
+            "unicode": "U+1F4F1"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 726,
+        "fields": {
+            "name": "MOBILE PHONE WITH RIGHTWARDS ARROW AT LEFT\n",
+            "unicode": "U+1F4F2"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 727,
+        "fields": {
+            "name": "VIBRATION MODE\n",
+            "unicode": "U+1F4F3"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 728,
+        "fields": {
+            "name": "MOBILE PHONE OFF\n",
+            "unicode": "U+1F4F4"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 729,
+        "fields": {
+            "name": "NO MOBILE PHONES\n",
+            "unicode": "U+1F4F5"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 730,
+        "fields": {
+            "name": "ANTENNA WITH BARS\n",
+            "unicode": "U+1F4F6"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 731,
+        "fields": {
+            "name": "CAMERA\n",
+            "unicode": "U+1F4F7"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 732,
+        "fields": {
+            "name": "CAMERA WITH FLASH\n",
+            "unicode": "U+1F4F8"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 733,
+        "fields": {
+            "name": "VIDEO CAMERA\n",
+            "unicode": "U+1F4F9"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 734,
+        "fields": {
+            "name": "TELEVISION\n",
+            "unicode": "U+1F4FA"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 735,
+        "fields": {
+            "name": "RADIO\n",
+            "unicode": "U+1F4FB"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 736,
+        "fields": {
+            "name": "VIDEOCASSETTE\n",
+            "unicode": "U+1F4FC"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 737,
+        "fields": {
+            "name": "FILM PROJECTOR\n",
+            "unicode": "U+1F4FD"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 738,
+        "fields": {
+            "name": "PRAYER BEADS\n",
+            "unicode": "U+1F4FF"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 739,
+        "fields": {
+            "name": "TWISTED RIGHTWARDS ARROWS\n",
+            "unicode": "U+1F500"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 740,
+        "fields": {
+            "name": "CLOCKWISE RIGHTWARDS AND LEFTWARDS OPEN CIRCLE ARROWS\n",
+            "unicode": "U+1F501"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 741,
+        "fields": {
+            "name": "CLOCKWISE RIGHTWARDS AND LEFTWARDS OPEN CIRCLE ARROWS WITH CIRCLED ONE OVERLAY\n",
+            "unicode": "U+1F502"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 742,
+        "fields": {
+            "name": "CLOCKWISE DOWNWARDS AND UPWARDS OPEN CIRCLE ARROWS\n",
+            "unicode": "U+1F503"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 743,
+        "fields": {
+            "name": "ANTICLOCKWISE DOWNWARDS AND UPWARDS OPEN CIRCLE ARROWS\n",
+            "unicode": "U+1F504"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 744,
+        "fields": {
+            "name": "LOW BRIGHTNESS SYMBOL\n",
+            "unicode": "U+1F505"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 745,
+        "fields": {
+            "name": "HIGH BRIGHTNESS SYMBOL\n",
+            "unicode": "U+1F506"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 746,
+        "fields": {
+            "name": "SPEAKER WITH CANCELLATION STROKE\n",
+            "unicode": "U+1F507"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 747,
+        "fields": {
+            "name": "SPEAKER\n",
+            "unicode": "U+1F508"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 748,
+        "fields": {
+            "name": "SPEAKER WITH ONE SOUND WAVE\n",
+            "unicode": "U+1F509"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 749,
+        "fields": {
+            "name": "SPEAKER WITH THREE SOUND WAVES\n",
+            "unicode": "U+1F50A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 750,
+        "fields": {
+            "name": "BATTERY\n",
+            "unicode": "U+1F50B"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 751,
+        "fields": {
+            "name": "ELECTRIC PLUG\n",
+            "unicode": "U+1F50C"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 752,
+        "fields": {
+            "name": "LEFT-POINTING MAGNIFYING GLASS\n",
+            "unicode": "U+1F50D"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 753,
+        "fields": {
+            "name": "RIGHT-POINTING MAGNIFYING GLASS\n",
+            "unicode": "U+1F50E"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 754,
+        "fields": {
+            "name": "LOCK WITH INK PEN\n",
+            "unicode": "U+1F50F"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 755,
+        "fields": {
+            "name": "CLOSED LOCK WITH KEY\n",
+            "unicode": "U+1F510"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 756,
+        "fields": {
+            "name": "KEY\n",
+            "unicode": "U+1F511"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 757,
+        "fields": {
+            "name": "LOCK\n",
+            "unicode": "U+1F512"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 758,
+        "fields": {
+            "name": "OPEN LOCK\n",
+            "unicode": "U+1F513"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 759,
+        "fields": {
+            "name": "BELL\n",
+            "unicode": "U+1F514"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 760,
+        "fields": {
+            "name": "BELL WITH CANCELLATION STROKE\n",
+            "unicode": "U+1F515"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 761,
+        "fields": {
+            "name": "BOOKMARK\n",
+            "unicode": "U+1F516"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 762,
+        "fields": {
+            "name": "LINK SYMBOL\n",
+            "unicode": "U+1F517"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 763,
+        "fields": {
+            "name": "RADIO BUTTON\n",
+            "unicode": "U+1F518"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 764,
+        "fields": {
+            "name": "BACK WITH LEFTWARDS ARROW ABOVE\n",
+            "unicode": "U+1F519"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 765,
+        "fields": {
+            "name": "END WITH LEFTWARDS ARROW ABOVE\n",
+            "unicode": "U+1F51A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 766,
+        "fields": {
+            "name": "ON WITH EXCLAMATION MARK WITH LEFT RIGHT ARROW ABOVE\n",
+            "unicode": "U+1F51B"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 767,
+        "fields": {
+            "name": "SOON WITH RIGHTWARDS ARROW ABOVE\n",
+            "unicode": "U+1F51C"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 768,
+        "fields": {
+            "name": "TOP WITH UPWARDS ARROW ABOVE\n",
+            "unicode": "U+1F51D"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 769,
+        "fields": {
+            "name": "NO ONE UNDER EIGHTEEN SYMBOL\n",
+            "unicode": "U+1F51E"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 770,
+        "fields": {
+            "name": "KEYCAP TEN\n",
+            "unicode": "U+1F51F"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 771,
+        "fields": {
+            "name": "INPUT SYMBOL FOR LATIN CAPITAL LETTERS\n",
+            "unicode": "U+1F520"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 772,
+        "fields": {
+            "name": "INPUT SYMBOL FOR LATIN SMALL LETTERS\n",
+            "unicode": "U+1F521"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 773,
+        "fields": {
+            "name": "INPUT SYMBOL FOR NUMBERS\n",
+            "unicode": "U+1F522"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 774,
+        "fields": {
+            "name": "INPUT SYMBOL FOR SYMBOLS\n",
+            "unicode": "U+1F523"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 775,
+        "fields": {
+            "name": "INPUT SYMBOL FOR LATIN LETTERS\n",
+            "unicode": "U+1F524"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 776,
+        "fields": {
+            "name": "FIRE\n",
+            "unicode": "U+1F525"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 777,
+        "fields": {
+            "name": "ELECTRIC TORCH\n",
+            "unicode": "U+1F526"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 778,
+        "fields": {
+            "name": "WRENCH\n",
+            "unicode": "U+1F527"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 779,
+        "fields": {
+            "name": "HAMMER\n",
+            "unicode": "U+1F528"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 780,
+        "fields": {
+            "name": "NUT AND BOLT\n",
+            "unicode": "U+1F529"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 781,
+        "fields": {
+            "name": "HOCHO\n",
+            "unicode": "U+1F52A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 782,
+        "fields": {
+            "name": "PISTOL\n",
+            "unicode": "U+1F52B"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 783,
+        "fields": {
+            "name": "MICROSCOPE\n",
+            "unicode": "U+1F52C"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 784,
+        "fields": {
+            "name": "TELESCOPE\n",
+            "unicode": "U+1F52D"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 785,
+        "fields": {
+            "name": "CRYSTAL BALL\n",
+            "unicode": "U+1F52E"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 786,
+        "fields": {
+            "name": "SIX POINTED STAR WITH MIDDLE DOT\n",
+            "unicode": "U+1F52F"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 787,
+        "fields": {
+            "name": "JAPANESE SYMBOL FOR BEGINNER\n",
+            "unicode": "U+1F530"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 788,
+        "fields": {
+            "name": "TRIDENT EMBLEM\n",
+            "unicode": "U+1F531"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 789,
+        "fields": {
+            "name": "BLACK SQUARE BUTTON\n",
+            "unicode": "U+1F532"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 790,
+        "fields": {
+            "name": "WHITE SQUARE BUTTON\n",
+            "unicode": "U+1F533"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 791,
+        "fields": {
+            "name": "LARGE RED CIRCLE\n",
+            "unicode": "U+1F534"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 792,
+        "fields": {
+            "name": "LARGE BLUE CIRCLE\n",
+            "unicode": "U+1F535"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 793,
+        "fields": {
+            "name": "LARGE ORANGE DIAMOND\n",
+            "unicode": "U+1F536"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 794,
+        "fields": {
+            "name": "LARGE BLUE DIAMOND\n",
+            "unicode": "U+1F537"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 795,
+        "fields": {
+            "name": "SMALL ORANGE DIAMOND\n",
+            "unicode": "U+1F538"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 796,
+        "fields": {
+            "name": "SMALL BLUE DIAMOND\n",
+            "unicode": "U+1F539"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 797,
+        "fields": {
+            "name": "UP-POINTING RED TRIANGLE\n",
+            "unicode": "U+1F53A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 798,
+        "fields": {
+            "name": "DOWN-POINTING RED TRIANGLE\n",
+            "unicode": "U+1F53B"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 799,
+        "fields": {
+            "name": "UP-POINTING SMALL RED TRIANGLE\n",
+            "unicode": "U+1F53C"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 800,
+        "fields": {
+            "name": "DOWN-POINTING SMALL RED TRIANGLE\n",
+            "unicode": "U+1F53D"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 801,
+        "fields": {
+            "name": "OM SYMBOL\n",
+            "unicode": "U+1F549"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 802,
+        "fields": {
+            "name": "DOVE OF PEACE\n",
+            "unicode": "U+1F54A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 803,
+        "fields": {
+            "name": "KAABA\n",
+            "unicode": "U+1F54B"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 804,
+        "fields": {
+            "name": "MOSQUE\n",
+            "unicode": "U+1F54C"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 805,
+        "fields": {
+            "name": "SYNAGOGUE\n",
+            "unicode": "U+1F54D"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 806,
+        "fields": {
+            "name": "MENORAH WITH NINE BRANCHES\n",
+            "unicode": "U+1F54E"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 807,
+        "fields": {
+            "name": "CLOCK FACE ONE OCLOCK\n",
+            "unicode": "U+1F550"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 808,
+        "fields": {
+            "name": "CLOCK FACE TWO OCLOCK\n",
+            "unicode": "U+1F551"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 809,
+        "fields": {
+            "name": "CLOCK FACE THREE OCLOCK\n",
+            "unicode": "U+1F552"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 810,
+        "fields": {
+            "name": "CLOCK FACE FOUR OCLOCK\n",
+            "unicode": "U+1F553"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 811,
+        "fields": {
+            "name": "CLOCK FACE FIVE OCLOCK\n",
+            "unicode": "U+1F554"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 812,
+        "fields": {
+            "name": "CLOCK FACE SIX OCLOCK\n",
+            "unicode": "U+1F555"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 813,
+        "fields": {
+            "name": "CLOCK FACE SEVEN OCLOCK\n",
+            "unicode": "U+1F556"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 814,
+        "fields": {
+            "name": "CLOCK FACE EIGHT OCLOCK\n",
+            "unicode": "U+1F557"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 815,
+        "fields": {
+            "name": "CLOCK FACE NINE OCLOCK\n",
+            "unicode": "U+1F558"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 816,
+        "fields": {
+            "name": "CLOCK FACE TEN OCLOCK\n",
+            "unicode": "U+1F559"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 817,
+        "fields": {
+            "name": "CLOCK FACE ELEVEN OCLOCK\n",
+            "unicode": "U+1F55A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 818,
+        "fields": {
+            "name": "CLOCK FACE TWELVE OCLOCK\n",
+            "unicode": "U+1F55B"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 819,
+        "fields": {
+            "name": "CLOCK FACE ONE-THIRTY\n",
+            "unicode": "U+1F55C"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 820,
+        "fields": {
+            "name": "CLOCK FACE TWO-THIRTY\n",
+            "unicode": "U+1F55D"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 821,
+        "fields": {
+            "name": "CLOCK FACE THREE-THIRTY\n",
+            "unicode": "U+1F55E"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 822,
+        "fields": {
+            "name": "CLOCK FACE FOUR-THIRTY\n",
+            "unicode": "U+1F55F"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 823,
+        "fields": {
+            "name": "CLOCK FACE FIVE-THIRTY\n",
+            "unicode": "U+1F560"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 824,
+        "fields": {
+            "name": "CLOCK FACE SIX-THIRTY\n",
+            "unicode": "U+1F561"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 825,
+        "fields": {
+            "name": "CLOCK FACE SEVEN-THIRTY\n",
+            "unicode": "U+1F562"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 826,
+        "fields": {
+            "name": "CLOCK FACE EIGHT-THIRTY\n",
+            "unicode": "U+1F563"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 827,
+        "fields": {
+            "name": "CLOCK FACE NINE-THIRTY\n",
+            "unicode": "U+1F564"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 828,
+        "fields": {
+            "name": "CLOCK FACE TEN-THIRTY\n",
+            "unicode": "U+1F565"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 829,
+        "fields": {
+            "name": "CLOCK FACE ELEVEN-THIRTY\n",
+            "unicode": "U+1F566"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 830,
+        "fields": {
+            "name": "CLOCK FACE TWELVE-THIRTY\n",
+            "unicode": "U+1F567"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 831,
+        "fields": {
+            "name": "CANDLE\n",
+            "unicode": "U+1F56F"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 832,
+        "fields": {
+            "name": "MANTELPIECE CLOCK\n",
+            "unicode": "U+1F570"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 833,
+        "fields": {
+            "name": "HOLE\n",
+            "unicode": "U+1F573"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 834,
+        "fields": {
+            "name": "MAN IN BUSINESS SUIT LEVITATING\n",
+            "unicode": "U+1F574"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 835,
+        "fields": {
+            "name": "SLEUTH OR SPY\n",
+            "unicode": "U+1F575"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 836,
+        "fields": {
+            "name": "DARK SUNGLASSES\n",
+            "unicode": "U+1F576"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 837,
+        "fields": {
+            "name": "SPIDER\n",
+            "unicode": "U+1F577"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 838,
+        "fields": {
+            "name": "SPIDER WEB\n",
+            "unicode": "U+1F578"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 839,
+        "fields": {
+            "name": "JOYSTICK\n",
+            "unicode": "U+1F579"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 840,
+        "fields": {
+            "name": "MAN DANCING\n",
+            "unicode": "U+1F57A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 841,
+        "fields": {
+            "name": "LINKED PAPERCLIPS\n",
+            "unicode": "U+1F587"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 842,
+        "fields": {
+            "name": "LOWER LEFT BALLPOINT PEN\n",
+            "unicode": "U+1F58A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 843,
+        "fields": {
+            "name": "LOWER LEFT FOUNTAIN PEN\n",
+            "unicode": "U+1F58B"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 844,
+        "fields": {
+            "name": "LOWER LEFT PAINTBRUSH\n",
+            "unicode": "U+1F58C"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 845,
+        "fields": {
+            "name": "LOWER LEFT CRAYON\n",
+            "unicode": "U+1F58D"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 846,
+        "fields": {
+            "name": "RAISED HAND WITH FINGERS SPLAYED\n",
+            "unicode": "U+1F590"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 847,
+        "fields": {
+            "name": "REVERSED HAND WITH MIDDLE FINGER EXTENDED\n",
+            "unicode": "U+1F595"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 848,
+        "fields": {
+            "name": "RAISED HAND WITH PART BETWEEN MIDDLE AND RING FINGERS\n",
+            "unicode": "U+1F596"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 849,
+        "fields": {
+            "name": "BLACK HEART\n",
+            "unicode": "U+1F5A4"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 850,
+        "fields": {
+            "name": "DESKTOP COMPUTER\n",
+            "unicode": "U+1F5A5"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 851,
+        "fields": {
+            "name": "PRINTER\n",
+            "unicode": "U+1F5A8"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 852,
+        "fields": {
+            "name": "THREE BUTTON MOUSE\n",
+            "unicode": "U+1F5B1"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 853,
+        "fields": {
+            "name": "TRACKBALL\n",
+            "unicode": "U+1F5B2"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 854,
+        "fields": {
+            "name": "FRAME WITH PICTURE\n",
+            "unicode": "U+1F5BC"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 855,
+        "fields": {
+            "name": "CARD INDEX DIVIDERS\n",
+            "unicode": "U+1F5C2"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 856,
+        "fields": {
+            "name": "CARD FILE BOX\n",
+            "unicode": "U+1F5C3"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 857,
+        "fields": {
+            "name": "FILE CABINET\n",
+            "unicode": "U+1F5C4"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 858,
+        "fields": {
+            "name": "WASTEBASKET\n",
+            "unicode": "U+1F5D1"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 859,
+        "fields": {
+            "name": "SPIRAL NOTE PAD\n",
+            "unicode": "U+1F5D2"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 860,
+        "fields": {
+            "name": "SPIRAL CALENDAR PAD\n",
+            "unicode": "U+1F5D3"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 861,
+        "fields": {
+            "name": "COMPRESSION\n",
+            "unicode": "U+1F5DC"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 862,
+        "fields": {
+            "name": "OLD KEY\n",
+            "unicode": "U+1F5DD"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 863,
+        "fields": {
+            "name": "ROLLED-UP NEWSPAPER\n",
+            "unicode": "U+1F5DE"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 864,
+        "fields": {
+            "name": "DAGGER KNIFE\n",
+            "unicode": "U+1F5E1"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 865,
+        "fields": {
+            "name": "SPEAKING HEAD IN SILHOUETTE\n",
+            "unicode": "U+1F5E3"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 866,
+        "fields": {
+            "name": "LEFT SPEECH BUBBLE\n",
+            "unicode": "U+1F5E8"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 867,
+        "fields": {
+            "name": "RIGHT ANGER BUBBLE\n",
+            "unicode": "U+1F5EF"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 868,
+        "fields": {
+            "name": "BALLOT BOX WITH BALLOT\n",
+            "unicode": "U+1F5F3"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 869,
+        "fields": {
+            "name": "WORLD MAP\n",
+            "unicode": "U+1F5FA"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 870,
+        "fields": {
+            "name": "MOUNT FUJI\n",
+            "unicode": "U+1F5FB"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 871,
+        "fields": {
+            "name": "TOKYO TOWER\n",
+            "unicode": "U+1F5FC"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 872,
+        "fields": {
+            "name": "STATUE OF LIBERTY\n",
+            "unicode": "U+1F5FD"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 873,
+        "fields": {
+            "name": "SILHOUETTE OF JAPAN\n",
+            "unicode": "U+1F5FE"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 874,
+        "fields": {
+            "name": "MOYAI\n",
+            "unicode": "U+1F5FF"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 875,
+        "fields": {
+            "name": "GRINNING FACE\n",
+            "unicode": "U+1F600"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 876,
+        "fields": {
+            "name": "GRINNING FACE WITH SMILING EYES\n",
+            "unicode": "U+1F601"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 877,
+        "fields": {
+            "name": "FACE WITH TEARS OF JOY\n",
+            "unicode": "U+1F602"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 878,
+        "fields": {
+            "name": "SMILING FACE WITH OPEN MOUTH\n",
+            "unicode": "U+1F603"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 879,
+        "fields": {
+            "name": "SMILING FACE WITH OPEN MOUTH AND SMILING EYES\n",
+            "unicode": "U+1F604"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 880,
+        "fields": {
+            "name": "SMILING FACE WITH OPEN MOUTH AND COLD SWEAT\n",
+            "unicode": "U+1F605"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 881,
+        "fields": {
+            "name": "SMILING FACE WITH OPEN MOUTH AND TIGHTLY-CLOSED EYES\n",
+            "unicode": "U+1F606"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 882,
+        "fields": {
+            "name": "SMILING FACE WITH HALO\n",
+            "unicode": "U+1F607"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 883,
+        "fields": {
+            "name": "SMILING FACE WITH HORNS\n",
+            "unicode": "U+1F608"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 884,
+        "fields": {
+            "name": "WINKING FACE\n",
+            "unicode": "U+1F609"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 885,
+        "fields": {
+            "name": "SMILING FACE WITH SMILING EYES\n",
+            "unicode": "U+1F60A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 886,
+        "fields": {
+            "name": "FACE SAVOURING DELICIOUS FOOD\n",
+            "unicode": "U+1F60B"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 887,
+        "fields": {
+            "name": "RELIEVED FACE\n",
+            "unicode": "U+1F60C"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 888,
+        "fields": {
+            "name": "SMILING FACE WITH HEART-SHAPED EYES\n",
+            "unicode": "U+1F60D"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 889,
+        "fields": {
+            "name": "SMILING FACE WITH SUNGLASSES\n",
+            "unicode": "U+1F60E"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 890,
+        "fields": {
+            "name": "SMIRKING FACE\n",
+            "unicode": "U+1F60F"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 891,
+        "fields": {
+            "name": "NEUTRAL FACE\n",
+            "unicode": "U+1F610"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 892,
+        "fields": {
+            "name": "EXPRESSIONLESS FACE\n",
+            "unicode": "U+1F611"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 893,
+        "fields": {
+            "name": "UNAMUSED FACE\n",
+            "unicode": "U+1F612"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 894,
+        "fields": {
+            "name": "FACE WITH COLD SWEAT\n",
+            "unicode": "U+1F613"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 895,
+        "fields": {
+            "name": "PENSIVE FACE\n",
+            "unicode": "U+1F614"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 896,
+        "fields": {
+            "name": "CONFUSED FACE\n",
+            "unicode": "U+1F615"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 897,
+        "fields": {
+            "name": "CONFOUNDED FACE\n",
+            "unicode": "U+1F616"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 898,
+        "fields": {
+            "name": "KISSING FACE\n",
+            "unicode": "U+1F617"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 899,
+        "fields": {
+            "name": "FACE THROWING A KISS\n",
+            "unicode": "U+1F618"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 900,
+        "fields": {
+            "name": "KISSING FACE WITH SMILING EYES\n",
+            "unicode": "U+1F619"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 901,
+        "fields": {
+            "name": "KISSING FACE WITH CLOSED EYES\n",
+            "unicode": "U+1F61A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 902,
+        "fields": {
+            "name": "FACE WITH STUCK-OUT TONGUE\n",
+            "unicode": "U+1F61B"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 903,
+        "fields": {
+            "name": "FACE WITH STUCK-OUT TONGUE AND WINKING EYE\n",
+            "unicode": "U+1F61C"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 904,
+        "fields": {
+            "name": "FACE WITH STUCK-OUT TONGUE AND TIGHTLY-CLOSED EYES\n",
+            "unicode": "U+1F61D"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 905,
+        "fields": {
+            "name": "DISAPPOINTED FACE\n",
+            "unicode": "U+1F61E"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 906,
+        "fields": {
+            "name": "WORRIED FACE\n",
+            "unicode": "U+1F61F"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 907,
+        "fields": {
+            "name": "ANGRY FACE\n",
+            "unicode": "U+1F620"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 908,
+        "fields": {
+            "name": "POUTING FACE\n",
+            "unicode": "U+1F621"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 909,
+        "fields": {
+            "name": "CRYING FACE\n",
+            "unicode": "U+1F622"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 910,
+        "fields": {
+            "name": "PERSEVERING FACE\n",
+            "unicode": "U+1F623"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 911,
+        "fields": {
+            "name": "FACE WITH LOOK OF TRIUMPH\n",
+            "unicode": "U+1F624"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 912,
+        "fields": {
+            "name": "DISAPPOINTED BUT RELIEVED FACE\n",
+            "unicode": "U+1F625"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 913,
+        "fields": {
+            "name": "FROWNING FACE WITH OPEN MOUTH\n",
+            "unicode": "U+1F626"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 914,
+        "fields": {
+            "name": "ANGUISHED FACE\n",
+            "unicode": "U+1F627"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 915,
+        "fields": {
+            "name": "FEARFUL FACE\n",
+            "unicode": "U+1F628"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 916,
+        "fields": {
+            "name": "WEARY FACE\n",
+            "unicode": "U+1F629"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 917,
+        "fields": {
+            "name": "SLEEPY FACE\n",
+            "unicode": "U+1F62A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 918,
+        "fields": {
+            "name": "TIRED FACE\n",
+            "unicode": "U+1F62B"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 919,
+        "fields": {
+            "name": "GRIMACING FACE\n",
+            "unicode": "U+1F62C"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 920,
+        "fields": {
+            "name": "LOUDLY CRYING FACE\n",
+            "unicode": "U+1F62D"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 921,
+        "fields": {
+            "name": "FACE WITH OPEN MOUTH\n",
+            "unicode": "U+1F62E"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 922,
+        "fields": {
+            "name": "HUSHED FACE\n",
+            "unicode": "U+1F62F"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 923,
+        "fields": {
+            "name": "FACE WITH OPEN MOUTH AND COLD SWEAT\n",
+            "unicode": "U+1F630"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 924,
+        "fields": {
+            "name": "FACE SCREAMING IN FEAR\n",
+            "unicode": "U+1F631"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 925,
+        "fields": {
+            "name": "ASTONISHED FACE\n",
+            "unicode": "U+1F632"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 926,
+        "fields": {
+            "name": "FLUSHED FACE\n",
+            "unicode": "U+1F633"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 927,
+        "fields": {
+            "name": "SLEEPING FACE\n",
+            "unicode": "U+1F634"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 928,
+        "fields": {
+            "name": "DIZZY FACE\n",
+            "unicode": "U+1F635"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 929,
+        "fields": {
+            "name": "FACE WITHOUT MOUTH\n",
+            "unicode": "U+1F636"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 930,
+        "fields": {
+            "name": "FACE WITH MEDICAL MASK\n",
+            "unicode": "U+1F637"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 931,
+        "fields": {
+            "name": "GRINNING CAT FACE WITH SMILING EYES\n",
+            "unicode": "U+1F638"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 932,
+        "fields": {
+            "name": "CAT FACE WITH TEARS OF JOY\n",
+            "unicode": "U+1F639"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 933,
+        "fields": {
+            "name": "SMILING CAT FACE WITH OPEN MOUTH\n",
+            "unicode": "U+1F63A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 934,
+        "fields": {
+            "name": "SMILING CAT FACE WITH HEART-SHAPED EYES\n",
+            "unicode": "U+1F63B"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 935,
+        "fields": {
+            "name": "CAT FACE WITH WRY SMILE\n",
+            "unicode": "U+1F63C"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 936,
+        "fields": {
+            "name": "KISSING CAT FACE WITH CLOSED EYES\n",
+            "unicode": "U+1F63D"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 937,
+        "fields": {
+            "name": "POUTING CAT FACE\n",
+            "unicode": "U+1F63E"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 938,
+        "fields": {
+            "name": "CRYING CAT FACE\n",
+            "unicode": "U+1F63F"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 939,
+        "fields": {
+            "name": "WEARY CAT FACE\n",
+            "unicode": "U+1F640"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 940,
+        "fields": {
+            "name": "SLIGHTLY FROWNING FACE\n",
+            "unicode": "U+1F641"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 941,
+        "fields": {
+            "name": "SLIGHTLY SMILING FACE\n",
+            "unicode": "U+1F642"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 942,
+        "fields": {
+            "name": "UPSIDE-DOWN FACE\n",
+            "unicode": "U+1F643"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 943,
+        "fields": {
+            "name": "FACE WITH ROLLING EYES\n",
+            "unicode": "U+1F644"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 944,
+        "fields": {
+            "name": "FACE WITH NO GOOD GESTURE\n",
+            "unicode": "U+1F645"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 945,
+        "fields": {
+            "name": "FACE WITH OK GESTURE\n",
+            "unicode": "U+1F646"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 946,
+        "fields": {
+            "name": "PERSON BOWING DEEPLY\n",
+            "unicode": "U+1F647"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 947,
+        "fields": {
+            "name": "SEE-NO-EVIL MONKEY\n",
+            "unicode": "U+1F648"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 948,
+        "fields": {
+            "name": "HEAR-NO-EVIL MONKEY\n",
+            "unicode": "U+1F649"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 949,
+        "fields": {
+            "name": "SPEAK-NO-EVIL MONKEY\n",
+            "unicode": "U+1F64A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 950,
+        "fields": {
+            "name": "HAPPY PERSON RAISING ONE HAND\n",
+            "unicode": "U+1F64B"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 951,
+        "fields": {
+            "name": "PERSON RAISING BOTH HANDS IN CELEBRATION\n",
+            "unicode": "U+1F64C"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 952,
+        "fields": {
+            "name": "PERSON FROWNING\n",
+            "unicode": "U+1F64D"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 953,
+        "fields": {
+            "name": "PERSON WITH POUTING FACE\n",
+            "unicode": "U+1F64E"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 954,
+        "fields": {
+            "name": "PERSON WITH FOLDED HANDS\n",
+            "unicode": "U+1F64F"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 955,
+        "fields": {
+            "name": "ROCKET\n",
+            "unicode": "U+1F680"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 956,
+        "fields": {
+            "name": "HELICOPTER\n",
+            "unicode": "U+1F681"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 957,
+        "fields": {
+            "name": "STEAM LOCOMOTIVE\n",
+            "unicode": "U+1F682"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 958,
+        "fields": {
+            "name": "RAILWAY CAR\n",
+            "unicode": "U+1F683"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 959,
+        "fields": {
+            "name": "HIGH-SPEED TRAIN\n",
+            "unicode": "U+1F684"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 960,
+        "fields": {
+            "name": "HIGH-SPEED TRAIN WITH BULLET NOSE\n",
+            "unicode": "U+1F685"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 961,
+        "fields": {
+            "name": "TRAIN\n",
+            "unicode": "U+1F686"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 962,
+        "fields": {
+            "name": "METRO\n",
+            "unicode": "U+1F687"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 963,
+        "fields": {
+            "name": "LIGHT RAIL\n",
+            "unicode": "U+1F688"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 964,
+        "fields": {
+            "name": "STATION\n",
+            "unicode": "U+1F689"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 965,
+        "fields": {
+            "name": "TRAM\n",
+            "unicode": "U+1F68A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 966,
+        "fields": {
+            "name": "TRAM CAR\n",
+            "unicode": "U+1F68B"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 967,
+        "fields": {
+            "name": "BUS\n",
+            "unicode": "U+1F68C"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 968,
+        "fields": {
+            "name": "ONCOMING BUS\n",
+            "unicode": "U+1F68D"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 969,
+        "fields": {
+            "name": "TROLLEYBUS\n",
+            "unicode": "U+1F68E"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 970,
+        "fields": {
+            "name": "BUS STOP\n",
+            "unicode": "U+1F68F"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 971,
+        "fields": {
+            "name": "MINIBUS\n",
+            "unicode": "U+1F690"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 972,
+        "fields": {
+            "name": "AMBULANCE\n",
+            "unicode": "U+1F691"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 973,
+        "fields": {
+            "name": "FIRE ENGINE\n",
+            "unicode": "U+1F692"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 974,
+        "fields": {
+            "name": "POLICE CAR\n",
+            "unicode": "U+1F693"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 975,
+        "fields": {
+            "name": "ONCOMING POLICE CAR\n",
+            "unicode": "U+1F694"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 976,
+        "fields": {
+            "name": "TAXI\n",
+            "unicode": "U+1F695"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 977,
+        "fields": {
+            "name": "ONCOMING TAXI\n",
+            "unicode": "U+1F696"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 978,
+        "fields": {
+            "name": "AUTOMOBILE\n",
+            "unicode": "U+1F697"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 979,
+        "fields": {
+            "name": "ONCOMING AUTOMOBILE\n",
+            "unicode": "U+1F698"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 980,
+        "fields": {
+            "name": "RECREATIONAL VEHICLE\n",
+            "unicode": "U+1F699"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 981,
+        "fields": {
+            "name": "DELIVERY TRUCK\n",
+            "unicode": "U+1F69A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 982,
+        "fields": {
+            "name": "ARTICULATED LORRY\n",
+            "unicode": "U+1F69B"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 983,
+        "fields": {
+            "name": "TRACTOR\n",
+            "unicode": "U+1F69C"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 984,
+        "fields": {
+            "name": "MONORAIL\n",
+            "unicode": "U+1F69D"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 985,
+        "fields": {
+            "name": "MOUNTAIN RAILWAY\n",
+            "unicode": "U+1F69E"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 986,
+        "fields": {
+            "name": "SUSPENSION RAILWAY\n",
+            "unicode": "U+1F69F"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 987,
+        "fields": {
+            "name": "MOUNTAIN CABLEWAY\n",
+            "unicode": "U+1F6A0"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 988,
+        "fields": {
+            "name": "AERIAL TRAMWAY\n",
+            "unicode": "U+1F6A1"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 989,
+        "fields": {
+            "name": "SHIP\n",
+            "unicode": "U+1F6A2"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 990,
+        "fields": {
+            "name": "ROWBOAT\n",
+            "unicode": "U+1F6A3"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 991,
+        "fields": {
+            "name": "SPEEDBOAT\n",
+            "unicode": "U+1F6A4"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 992,
+        "fields": {
+            "name": "HORIZONTAL TRAFFIC LIGHT\n",
+            "unicode": "U+1F6A5"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 993,
+        "fields": {
+            "name": "VERTICAL TRAFFIC LIGHT\n",
+            "unicode": "U+1F6A6"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 994,
+        "fields": {
+            "name": "CONSTRUCTION SIGN\n",
+            "unicode": "U+1F6A7"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 995,
+        "fields": {
+            "name": "POLICE CARS REVOLVING LIGHT\n",
+            "unicode": "U+1F6A8"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 996,
+        "fields": {
+            "name": "TRIANGULAR FLAG ON POST\n",
+            "unicode": "U+1F6A9"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 997,
+        "fields": {
+            "name": "DOOR\n",
+            "unicode": "U+1F6AA"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 998,
+        "fields": {
+            "name": "NO ENTRY SIGN\n",
+            "unicode": "U+1F6AB"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 999,
+        "fields": {
+            "name": "SMOKING SYMBOL\n",
+            "unicode": "U+1F6AC"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1000,
+        "fields": {
+            "name": "NO SMOKING SYMBOL\n",
+            "unicode": "U+1F6AD"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1001,
+        "fields": {
+            "name": "PUT LITTER IN ITS PLACE SYMBOL\n",
+            "unicode": "U+1F6AE"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1002,
+        "fields": {
+            "name": "DO NOT LITTER SYMBOL\n",
+            "unicode": "U+1F6AF"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1003,
+        "fields": {
+            "name": "POTABLE WATER SYMBOL\n",
+            "unicode": "U+1F6B0"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1004,
+        "fields": {
+            "name": "NON-POTABLE WATER SYMBOL\n",
+            "unicode": "U+1F6B1"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1005,
+        "fields": {
+            "name": "BICYCLE\n",
+            "unicode": "U+1F6B2"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1006,
+        "fields": {
+            "name": "NO BICYCLES\n",
+            "unicode": "U+1F6B3"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1007,
+        "fields": {
+            "name": "BICYCLIST\n",
+            "unicode": "U+1F6B4"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1008,
+        "fields": {
+            "name": "MOUNTAIN BICYCLIST\n",
+            "unicode": "U+1F6B5"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1009,
+        "fields": {
+            "name": "PEDESTRIAN\n",
+            "unicode": "U+1F6B6"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1010,
+        "fields": {
+            "name": "NO PEDESTRIANS\n",
+            "unicode": "U+1F6B7"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1011,
+        "fields": {
+            "name": "CHILDREN CROSSING\n",
+            "unicode": "U+1F6B8"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1012,
+        "fields": {
+            "name": "MENS SYMBOL\n",
+            "unicode": "U+1F6B9"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1013,
+        "fields": {
+            "name": "WOMENS SYMBOL\n",
+            "unicode": "U+1F6BA"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1014,
+        "fields": {
+            "name": "RESTROOM\n",
+            "unicode": "U+1F6BB"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1015,
+        "fields": {
+            "name": "BABY SYMBOL\n",
+            "unicode": "U+1F6BC"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1016,
+        "fields": {
+            "name": "TOILET\n",
+            "unicode": "U+1F6BD"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1017,
+        "fields": {
+            "name": "WATER CLOSET\n",
+            "unicode": "U+1F6BE"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1018,
+        "fields": {
+            "name": "SHOWER\n",
+            "unicode": "U+1F6BF"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1019,
+        "fields": {
+            "name": "BATH\n",
+            "unicode": "U+1F6C0"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1020,
+        "fields": {
+            "name": "BATHTUB\n",
+            "unicode": "U+1F6C1"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1021,
+        "fields": {
+            "name": "PASSPORT CONTROL\n",
+            "unicode": "U+1F6C2"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1022,
+        "fields": {
+            "name": "CUSTOMS\n",
+            "unicode": "U+1F6C3"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1023,
+        "fields": {
+            "name": "BAGGAGE CLAIM\n",
+            "unicode": "U+1F6C4"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1024,
+        "fields": {
+            "name": "LEFT LUGGAGE\n",
+            "unicode": "U+1F6C5"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1025,
+        "fields": {
+            "name": "COUCH AND LAMP\n",
+            "unicode": "U+1F6CB"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1026,
+        "fields": {
+            "name": "SLEEPING ACCOMMODATION\n",
+            "unicode": "U+1F6CC"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1027,
+        "fields": {
+            "name": "SHOPPING BAGS\n",
+            "unicode": "U+1F6CD"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1028,
+        "fields": {
+            "name": "BELLHOP BELL\n",
+            "unicode": "U+1F6CE"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1029,
+        "fields": {
+            "name": "BED\n",
+            "unicode": "U+1F6CF"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1030,
+        "fields": {
+            "name": "PLACE OF WORSHIP\n",
+            "unicode": "U+1F6D0"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1031,
+        "fields": {
+            "name": "OCTAGONAL SIGN\n",
+            "unicode": "U+1F6D1"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1032,
+        "fields": {
+            "name": "SHOPPING TROLLEY\n",
+            "unicode": "U+1F6D2"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1033,
+        "fields": {
+            "name": "HAMMER AND WRENCH\n",
+            "unicode": "U+1F6E0"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1034,
+        "fields": {
+            "name": "SHIELD\n",
+            "unicode": "U+1F6E1"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1035,
+        "fields": {
+            "name": "OIL DRUM\n",
+            "unicode": "U+1F6E2"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1036,
+        "fields": {
+            "name": "MOTORWAY\n",
+            "unicode": "U+1F6E3"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1037,
+        "fields": {
+            "name": "RAILWAY TRACK\n",
+            "unicode": "U+1F6E4"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1038,
+        "fields": {
+            "name": "MOTOR BOAT\n",
+            "unicode": "U+1F6E5"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1039,
+        "fields": {
+            "name": "SMALL AIRPLANE\n",
+            "unicode": "U+1F6E9"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1040,
+        "fields": {
+            "name": "AIRPLANE DEPARTURE\n",
+            "unicode": "U+1F6EB"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1041,
+        "fields": {
+            "name": "AIRPLANE ARRIVING\n",
+            "unicode": "U+1F6EC"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1042,
+        "fields": {
+            "name": "SATELLITE\n",
+            "unicode": "U+1F6F0"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1043,
+        "fields": {
+            "name": "PASSENGER SHIP\n",
+            "unicode": "U+1F6F3"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1044,
+        "fields": {
+            "name": "SCOOTER\n",
+            "unicode": "U+1F6F4"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1045,
+        "fields": {
+            "name": "MOTOR SCOOTER\n",
+            "unicode": "U+1F6F5"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1046,
+        "fields": {
+            "name": "CANOE\n",
+            "unicode": "U+1F6F6"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1047,
+        "fields": {
+            "name": "ZIPPER-MOUTH FACE\n",
+            "unicode": "U+1F910"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1048,
+        "fields": {
+            "name": "MONEY-MOUTH FACE\n",
+            "unicode": "U+1F911"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1049,
+        "fields": {
+            "name": "FACE WITH THERMOMETER\n",
+            "unicode": "U+1F912"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1050,
+        "fields": {
+            "name": "NERD FACE\n",
+            "unicode": "U+1F913"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1051,
+        "fields": {
+            "name": "THINKING FACE\n",
+            "unicode": "U+1F914"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1052,
+        "fields": {
+            "name": "FACE WITH HEAD-BANDAGE\n",
+            "unicode": "U+1F915"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1053,
+        "fields": {
+            "name": "ROBOT FACE\n",
+            "unicode": "U+1F916"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1054,
+        "fields": {
+            "name": "HUGGING FACE\n",
+            "unicode": "U+1F917"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1055,
+        "fields": {
+            "name": "SIGN OF THE HORNS\n",
+            "unicode": "U+1F918"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1056,
+        "fields": {
+            "name": "CALL ME HAND\n",
+            "unicode": "U+1F919"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1057,
+        "fields": {
+            "name": "RAISED BACK OF HAND\n",
+            "unicode": "U+1F91A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1058,
+        "fields": {
+            "name": "LEFT-FACING FIST\n",
+            "unicode": "U+1F91B"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1059,
+        "fields": {
+            "name": "RIGHT-FACING FIST\n",
+            "unicode": "U+1F91C"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1060,
+        "fields": {
+            "name": "HANDSHAKE\n",
+            "unicode": "U+1F91D"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1061,
+        "fields": {
+            "name": "HAND WITH INDEX AND MIDDLE FINGERS CROSSED\n",
+            "unicode": "U+1F91E"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1062,
+        "fields": {
+            "name": "FACE WITH COWBOY HAT\n",
+            "unicode": "U+1F920"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1063,
+        "fields": {
+            "name": "CLOWN FACE\n",
+            "unicode": "U+1F921"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1064,
+        "fields": {
+            "name": "NAUSEATED FACE\n",
+            "unicode": "U+1F922"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1065,
+        "fields": {
+            "name": "ROLLING ON THE FLOOR LAUGHING\n",
+            "unicode": "U+1F923"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1066,
+        "fields": {
+            "name": "DROOLING FACE\n",
+            "unicode": "U+1F924"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1067,
+        "fields": {
+            "name": "LYING FACE\n",
+            "unicode": "U+1F925"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1068,
+        "fields": {
+            "name": "FACE PALM\n",
+            "unicode": "U+1F926"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1069,
+        "fields": {
+            "name": "SNEEZING FACE\n",
+            "unicode": "U+1F927"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1070,
+        "fields": {
+            "name": "PREGNANT WOMAN\n",
+            "unicode": "U+1F930"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1071,
+        "fields": {
+            "name": "SELFIE\n",
+            "unicode": "U+1F933"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1072,
+        "fields": {
+            "name": "PRINCE\n",
+            "unicode": "U+1F934"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1073,
+        "fields": {
+            "name": "MAN IN TUXEDO\n",
+            "unicode": "U+1F935"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1074,
+        "fields": {
+            "name": "MOTHER CHRISTMAS\n",
+            "unicode": "U+1F936"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1075,
+        "fields": {
+            "name": "SHRUG\n",
+            "unicode": "U+1F937"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1076,
+        "fields": {
+            "name": "PERSON DOING CARTWHEEL\n",
+            "unicode": "U+1F938"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1077,
+        "fields": {
+            "name": "JUGGLING\n",
+            "unicode": "U+1F939"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1078,
+        "fields": {
+            "name": "FENCER\n",
+            "unicode": "U+1F93A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1079,
+        "fields": {
+            "name": "WRESTLERS\n",
+            "unicode": "U+1F93C"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1080,
+        "fields": {
+            "name": "WATER POLO\n",
+            "unicode": "U+1F93D"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1081,
+        "fields": {
+            "name": "HANDBALL\n",
+            "unicode": "U+1F93E"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1082,
+        "fields": {
+            "name": "WILTED FLOWER\n",
+            "unicode": "U+1F940"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1083,
+        "fields": {
+            "name": "DRUM WITH DRUMSTICKS\n",
+            "unicode": "U+1F941"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1084,
+        "fields": {
+            "name": "CLINKING GLASSES\n",
+            "unicode": "U+1F942"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1085,
+        "fields": {
+            "name": "TUMBLER GLASS\n",
+            "unicode": "U+1F943"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1086,
+        "fields": {
+            "name": "SPOON\n",
+            "unicode": "U+1F944"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1087,
+        "fields": {
+            "name": "GOAL NET\n",
+            "unicode": "U+1F945"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1088,
+        "fields": {
+            "name": "FIRST PLACE MEDAL\n",
+            "unicode": "U+1F947"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1089,
+        "fields": {
+            "name": "SECOND PLACE MEDAL\n",
+            "unicode": "U+1F948"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1090,
+        "fields": {
+            "name": "THIRD PLACE MEDAL\n",
+            "unicode": "U+1F949"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1091,
+        "fields": {
+            "name": "BOXING GLOVE\n",
+            "unicode": "U+1F94A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1092,
+        "fields": {
+            "name": "MARTIAL ARTS UNIFORM\n",
+            "unicode": "U+1F94B"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1093,
+        "fields": {
+            "name": "CROISSANT\n",
+            "unicode": "U+1F950"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1094,
+        "fields": {
+            "name": "AVOCADO\n",
+            "unicode": "U+1F951"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1095,
+        "fields": {
+            "name": "CUCUMBER\n",
+            "unicode": "U+1F952"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1096,
+        "fields": {
+            "name": "BACON\n",
+            "unicode": "U+1F953"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1097,
+        "fields": {
+            "name": "POTATO\n",
+            "unicode": "U+1F954"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1098,
+        "fields": {
+            "name": "CARROT\n",
+            "unicode": "U+1F955"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1099,
+        "fields": {
+            "name": "BAGUETTE BREAD\n",
+            "unicode": "U+1F956"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1100,
+        "fields": {
+            "name": "GREEN SALAD\n",
+            "unicode": "U+1F957"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1101,
+        "fields": {
+            "name": "SHALLOW PAN OF FOOD\n",
+            "unicode": "U+1F958"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1102,
+        "fields": {
+            "name": "STUFFED FLATBREAD\n",
+            "unicode": "U+1F959"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1103,
+        "fields": {
+            "name": "EGG\n",
+            "unicode": "U+1F95A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1104,
+        "fields": {
+            "name": "GLASS OF MILK\n",
+            "unicode": "U+1F95B"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1105,
+        "fields": {
+            "name": "PEANUTS\n",
+            "unicode": "U+1F95C"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1106,
+        "fields": {
+            "name": "KIWIFRUIT\n",
+            "unicode": "U+1F95D"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1107,
+        "fields": {
+            "name": "PANCAKES\n",
+            "unicode": "U+1F95E"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1108,
+        "fields": {
+            "name": "CRAB\n",
+            "unicode": "U+1F980"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1109,
+        "fields": {
+            "name": "LION FACE\n",
+            "unicode": "U+1F981"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1110,
+        "fields": {
+            "name": "SCORPION\n",
+            "unicode": "U+1F982"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1111,
+        "fields": {
+            "name": "TURKEY\n",
+            "unicode": "U+1F983"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1112,
+        "fields": {
+            "name": "UNICORN FACE\n",
+            "unicode": "U+1F984"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1113,
+        "fields": {
+            "name": "EAGLE\n",
+            "unicode": "U+1F985"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1114,
+        "fields": {
+            "name": "DUCK\n",
+            "unicode": "U+1F986"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1115,
+        "fields": {
+            "name": "BAT\n",
+            "unicode": "U+1F987"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1116,
+        "fields": {
+            "name": "SHARK\n",
+            "unicode": "U+1F988"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1117,
+        "fields": {
+            "name": "OWL\n",
+            "unicode": "U+1F989"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1118,
+        "fields": {
+            "name": "FOX FACE\n",
+            "unicode": "U+1F98A"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1119,
+        "fields": {
+            "name": "BUTTERFLY\n",
+            "unicode": "U+1F98B"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1120,
+        "fields": {
+            "name": "DEER\n",
+            "unicode": "U+1F98C"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1121,
+        "fields": {
+            "name": "GORILLA\n",
+            "unicode": "U+1F98D"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1122,
+        "fields": {
+            "name": "LIZARD\n",
+            "unicode": "U+1F98E"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1123,
+        "fields": {
+            "name": "RHINOCEROS\n",
+            "unicode": "U+1F98F"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1124,
+        "fields": {
+            "name": "SHRIMP\n",
+            "unicode": "U+1F990"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1125,
+        "fields": {
+            "name": "SQUID\n",
+            "unicode": "U+1F991"
+        }
+    },
+    {
+        "model": "posts.stamps",
+        "pk": 1126,
+        "fields": {
+            "name": "CHEESE WEDGE\n",
+            "unicode": "U+1F9C0"
+        }
+    }
+]
